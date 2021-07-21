@@ -1,4 +1,4 @@
-# Dark Money Metal Shaders
+# Dark Money Metals
 
 **Dark-Money-Metals.blend** includes Asset Browser swatches (Blender 3.0+)
 
