@@ -1,5 +1,7 @@
 # Matlib VX (908 Materials)
 
+A port of the Materials Library files that shipped with the Blender 2.7.2-compatible version of the add-on, but which are missing from the version that ships with current Blender.
+
 ## [Matlib VX Abstract](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Abstract.md)
 ### 31 Materials
 ![Matlib VX Abstract](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Abstract.jpg)
