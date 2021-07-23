@@ -1,6 +1,6 @@
 # Dark Money Metals (47 Materials)
 
-Blender materials based on specs provided by Jarrod Hasenjäger's [**Material Studies: Metals**](https://www.artstation.com/artwork/aL4JR)
+Blender materials based on specs provided by Jarrod Hasenjäger's [**Material Studies: Metals**](https://www.artstation.com/artwork/aL4JR).
 
 **Dark-Money-Metals.blend** includes Asset Browser swatches (Blender 3.0+)
 
