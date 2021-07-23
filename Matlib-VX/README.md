@@ -25,7 +25,7 @@
 ### 27 Materials
 ![Matlib VX Lights](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Lights.jpg)
 
-## [Matlib VX Metal 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Metal-01.md)
+## [Matlib VX Metal](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Metal.md)
 ### 83 Materials
 ![Matlib VX Metal 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Metal-01.jpg)
 ![Matlib VX Metal 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Metal-02.jpg)
@@ -38,7 +38,7 @@
 ### 33 Materials
 ![Matlib VX Organic](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Organic.jpg)
 
-## [Matlib VX OSL 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-OSL-01.md)
+## [Matlib VX OSL](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-OSL.md)
 ### 171 Materials
 ![Matlib VX OSL 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-OSL-01.jpg)
 ![Matlib VX OSL 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-OSL-02.jpg)
