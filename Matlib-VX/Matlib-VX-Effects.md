@@ -1,6 +1,6 @@
 # Matlib VX - Effects
 
-![Matlib VX Effects](https://github.com/don1138/blender-materials/blob/main/Matlab-VX/JPG/Matlib-VX-Effects.jpg)
+![Matlib VX Effects](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Effects.jpg)
 
 1. **EF Aspect**
 1. **EF Blue Trans Check G**

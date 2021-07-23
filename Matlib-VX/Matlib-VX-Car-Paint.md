@@ -1,6 +1,6 @@
 # Matlib VX - Car Paint
 
-![Matlib VX Car Paint](https://github.com/don1138/blender-materials/blob/main/Matlab-VX/JPG/Matlib-VX-Car-Paint.jpg)
+![Matlib VX Car Paint](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Car-Paint.jpg)
 
 1. **CP Basic Flakes**
 1. **CP Basic Fresnel Blue**
