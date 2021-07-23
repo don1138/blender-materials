@@ -1,6 +1,6 @@
 # Matlib VX - Lights
 
-![Matlib VX Lights](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Lights.jpg)
+![Matlib VX Lights](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Lights/Matlib-VX-Lights.jpg)
 
 1. **LI  Accretion Disc**
 1. **LI Blaster Bolt (Red)**

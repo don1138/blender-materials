@@ -1,6 +1,6 @@
 # Matlib VX - Metal
 
-![Matlib VX Metal 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Metal-01.jpg)
+![Matlib VX Metal 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Metal/Matlib-VX-Metal-01.jpg)
 
 1. **Blued Steel**
 1. **ME Paintdots G**
@@ -67,7 +67,7 @@
 1. **ME Rust G**
 1. **ME Rusty Dirt G**
 
-![Matlib VX Metal 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Metal-02.jpg)
+![Matlib VX Metal 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Metal/Matlib-VX-Metal-02.jpg)
 
 1. **ME Rusty G**
 1. **ME Rusty Metal G**

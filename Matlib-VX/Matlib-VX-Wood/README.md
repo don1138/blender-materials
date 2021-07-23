@@ -1,6 +1,6 @@
 # Matlib VX - Wood
 
-![Matlib VX Wood](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Wood.jpg)
+![Matlib VX Wood](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Wood/Matlib-VX-Wood.jpg)
 
 1. **WO Bark Cortex G**
 1. **WO Basic Arbre**

@@ -1,6 +1,6 @@
 # Matlib VX - Glass
 
-![Matlib VX Glass 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Glass-01.jpg)
+![Matlib VX Glass 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Glass/Matlib-VX-Glass-01.jpg)
 
 1. **FL Absorption G**
 1. **FL Applej G**
@@ -67,7 +67,7 @@
 1. **GL Dispersive Glass G**
 1. **GL Facade Mod**
 
-![Matlib VX Glass 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Glass-02.jpg)
+![Matlib VX Glass 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Glass/Matlib-VX-Glass-02.jpg)
 
 1. **GL Fake Caustic Alt G**
 1. **GL Fake Caustic G**

@@ -1,6 +1,6 @@
 # Matlib VX - Textile
 
-![Matlib VX Textile](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Textile.jpg)
+![Matlib VX Textile](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Textile/Matlib-VX-Textile.jpg)
 
 1. **TE Black Velvet Simple**
 1. **TE Blue Happy**

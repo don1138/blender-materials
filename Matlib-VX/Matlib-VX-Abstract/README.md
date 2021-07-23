@@ -1,6 +1,6 @@
 # Matlib VX - Abstract
 
-![Matlib VX Abstract](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Abstract.jpg)
+![Matlib VX Abstract](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Abstract/Matlib-VX-Abstract.jpg)
 
 1. **AB Carrelage**
 1. **AB Cendre**

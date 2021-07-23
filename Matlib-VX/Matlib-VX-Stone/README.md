@@ -1,6 +1,6 @@
 # Matlib VX - Stone
 
-![Matlib VX Stone](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Stone.jpg)
+![Matlib VX Stone](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Stone/Matlib-VX-Stone.jpg)
 
 1. **ST 1970 Tiles**
 1. **ST Basic Boden**

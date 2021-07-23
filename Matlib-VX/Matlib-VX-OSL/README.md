@@ -1,6 +1,6 @@
 # Matlib VX - OSL
 
-![Matlib VX OSL 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-OSL-01.jpg)
+![Matlib VX OSL 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-OSL/Matlib-VX-OSL-01.jpg)
 
 1. **OSL Abrtract Sine**
 1. **OSL Absorbtion 2**
@@ -67,7 +67,7 @@
 1. **OSL Letter F**
 1. **OSL Lg Eyeball**
 
-![Matlib VX OSL 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-OSL-02.jpg)
+![Matlib VX OSL 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-OSL/Matlib-VX-OSL-02.jpg)
 
 1. **OSL Lg Eyeball 1**
 1. **OSL Lg Greenmarble**
@@ -134,7 +134,7 @@
 1. **OSL Phong Ramp**
 1. **OSL Pie Wavy**
 
-![Matlib VX OSL 03](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-OSL-03.jpg)
+![Matlib VX OSL 03](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-OSL/Matlib-VX-OSL-03.jpg)
 
 1. **OSL Planet**
 1. **OSL Planet Test**

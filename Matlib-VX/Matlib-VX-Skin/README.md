@@ -1,6 +1,6 @@
 # Matlib VX - Skin
 
-![Matlib VX Skin](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Skin.jpg)
+![Matlib VX Skin](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Skin/Matlib-VX-Skin.jpg)
 
 1. **SK African G**
 1. **SK Asian G**

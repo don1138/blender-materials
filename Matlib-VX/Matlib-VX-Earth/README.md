@@ -1,6 +1,6 @@
 # Matlib VX - Earth
 
-![Matlib VX Earth](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Earth.jpg)
+![Matlib VX Earth](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Earth/Matlib-VX-Earth.jpg)
 
 1. **EA Ant Dirt G**
 1. **EA Ant Forest G**

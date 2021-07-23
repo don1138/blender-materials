@@ -1,6 +1,6 @@
 ## Matlib VX - Uber
 
-![Matlib VX Uber](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Uber.jpg)
+![Matlib VX Uber](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Uber/Matlib-VX-Uber.jpg)
 
 1. **CP Uber BCMP Metalliccarpaint**
 1. **EA Uber BCMP Clay G**

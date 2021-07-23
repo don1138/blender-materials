@@ -1,6 +1,6 @@
 # Matlib VX - Synthetic
 
-![Matlib VX Synthetic](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Synthetic.jpg)
+![Matlib VX Synthetic](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Synthetic/Matlib-VX-Synthetic.jpg)
 
 1. **SY Basic Black Rubber**
 1. **SY Basic Plastic**

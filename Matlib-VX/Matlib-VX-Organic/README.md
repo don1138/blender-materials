@@ -1,6 +1,6 @@
 # Matlib VX - Organic
 
-![Matlib VX Organic](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Organic.jpg)
+![Matlib VX Organic](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Organic/Matlib-VX-Organic.jpg)
 
 1. **OR Apple**
 1. **OR Apple 2 G**
