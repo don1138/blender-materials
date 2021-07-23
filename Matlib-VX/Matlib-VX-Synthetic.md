@@ -1,4 +1,4 @@
-### Matlib VX - Synthetic
+# Matlib VX - Synthetic
 
 ![Matlib VX Synthetic](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Synthetic.jpg)
 

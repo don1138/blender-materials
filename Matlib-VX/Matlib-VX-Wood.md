@@ -1,4 +1,4 @@
-### Matlib VX - Wood
+# Matlib VX - Wood
 
 ![Matlib VX Wood](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Wood.jpg)
 

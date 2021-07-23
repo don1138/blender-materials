@@ -1,4 +1,4 @@
-### Matlib VX - Stone
+# Matlib VX - Stone
 
 ![Matlib VX Stone](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/JPG/Matlib-VX-Stone.jpg)
 
