@@ -1,5 +1,4 @@
-# Dark Money Metals
-### 47 Materials
+# Dark Money Metals (47 Materials)
 
 **Dark-Money-Metals.blend** includes Asset Browser swatches (Blender 3.0+)
 
