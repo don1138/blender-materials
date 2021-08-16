@@ -1,6 +1,6 @@
 # Matlib VX (908 Materials)
 
-A port of the Materials Library files that shipped with the Blender 2.7.2-compatible version of the add-on, but which are missing from the version that ships with current Blender.
+A port of the **Materials Library** files that shipped with the Blender 2.7.2-compatible version of the add-on, but which are missing from the version that ships with current Blender.
 
 All .blend files include Asset Browser swatches (Blender 3.0+)
 
