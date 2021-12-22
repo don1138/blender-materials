@@ -2,180 +2,208 @@
 
 ![Matlib VX OSL 01](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-OSL/Matlib-VX-OSL-01.jpg)
 
-1. **OSL Abrtract Sine**
-1. **OSL Absorbtion 2**
-1. **OSL Add**
-1. **OSL Ba Glass**
-1. **OSL Ba Glass 2**
-1. **OSL Ba Velvet**
-1. **OSL Barb Wire**
-1. **OSL Basic Fabric**
-1. **OSL Beach Ball**
-1. **OSL Best Hessian**
-1. **OSL Bevel.001**
-1. **OSL Blackbody**
-1. **OSL Castironcover**
-1. **OSL Cell Simple**
-1. **OSL Ch Halftone**
-1. **OSL Ch Hard Mix**
-1. **OSL Ch Planet**
-1. **OSL Ch Planet 1**
-1. **OSL Ch Posterise**
-1. **OSL Ch Sinus**
-1. **OSL Chain Link**
-1. **OSL Chainmail**
-1. **OSL Checker**
-1. **OSL Color Pie**
-1. **OSL Color Range**
-1. **OSL Concrete**
-1. **OSL Cubic Spline**
-1. **OSL Cyclone**
-1. **OSL Dented**
-1. **OSL Detailed Fabric**
-1. **OSL Diamond Plate**
-1. **OSL Dots**
-1. **OSL Dragon Scales**
-1. **OSL Droplet**
-1. **OSL Droplets**
-1. **OSL Dw Parquete Tile**
-1. **OSL Dw Parquete Tile 1**
-1. **OSL El Gold**
-1. **OSL Fabric**
-1. **OSL Fake Volume**
-1. **OSL Fb Interior Mapping**
-1. **OSL Fb Reflection**
-1. **OSL Fingerprint**
-1. **OSL Fish Net**
-1. **OSL Flower**
-1. **OSL Flowers**
-1. **OSL Gabor Noise**
-1. **OSL Gh Pie**
-1. **OSL Gh Pie 1**
-1. **OSL Glass 1**
-1. **OSL Globals**
-1. **OSL Grapefruit**
-1. **OSL Halftone Mix**
-1. **OSL Heart**
-1. **OSL Hessian**
-1. **OSL Hex 2**
-1. **OSL Hex Tile**
-1. **OSL Hexagon 2**
-1. **OSL Holder**
-1. **OSL Image To Screen**
-1. **OSL Km Flame**
-1. **OSL Leopard**
-1. **OSL Letter F**
-1. **OSL Lg Eyeball**
+```
+171 MATERIALS
+=============
+
+A1 — OSL Abrtract Sine
+A2 — OSL Absorbtion 2
+A3 — OSL Add
+A4 — OSL Ba Glass
+A5 — OSL Ba Glass 2
+A6 — OSL Ba Velvet
+A7 — OSL Barb Wire
+A8 — OSL Basic Fabric
+
+B1 — OSL Beach Ball
+B2 — OSL Best Hessian
+B3 — OSL Bevel.001
+B4 — OSL Blackbody
+B5 — OSL Castironcover
+B6 — OSL Cell Simple
+B7 — OSL Ch Halftone
+B8 — OSL Ch Hard Mix
+
+C1 — OSL Ch Planet
+C2 — OSL Ch Planet 1
+C3 — OSL Ch Posterise
+C4 — OSL Ch Sinus
+C5 — OSL Chain Link
+C6 — OSL Chainmail
+C7 — OSL Checker
+C8 — OSL Color Pie
+
+D1 — OSL Color Range
+D2 — OSL Concrete
+D3 — OSL Cubic Spline
+D4 — OSL Cyclone
+D5 — OSL Dented
+D6 — OSL Detailed Fabric
+D7 — OSL Diamond Plate
+D8 — OSL Dots
+
+E1 — OSL Dragon Scales
+E2 — OSL Droplet
+E3 — OSL Droplets
+E4 — OSL Dw Parquete Tile
+E5 — OSL Dw Parquete Tile 1
+E6 — OSL El Gold
+E7 — OSL Fabric
+E8 — OSL Fake Volume
+
+F1 — OSL Fb Interior Mapping
+F2 — OSL Fb Reflection
+F3 — OSL Fingerprint
+F4 — OSL Fish Net
+F5 — OSL Flower
+F6 — OSL Flowers
+F7 — OSL Gabor Noise
+F8 — OSL Gh Pie
+
+H1 — OSL Gh Pie 1
+H2 — OSL Glass 1
+H3 — OSL Globals
+H4 — OSL Grapefruit
+H5 — OSL Halftone Mix
+H6 — OSL Heart
+H7 — OSL Hessian
+H8 — OSL Hex 2
+
+J1 — OSL Hex Tile
+J2 — OSL Hexagon 2
+J3 — OSL Holder
+J4 — OSL Image To Screen
+J5 — OSL Km Flame 
+J6 — OSL Leopard
+J7 — OSL Letter F
+J8 — OSL Lg Eyeball
+```
 
 ![Matlib VX OSL 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-OSL/Matlib-VX-OSL-02.jpg)
 
-1. **OSL Lg Eyeball 1**
-1. **OSL Lg Greenmarble**
-1. **OSL Lg Hex Tile**
-1. **OSL Lg Rustymetal**
-1. **OSL Lg Veined Marble**
-1. **OSL Ma 4D Voronoi**
-1. **OSL Ma Barb Wire**
-1. **OSL Ma Chain Link**
-1. **OSL Ma Chainmail**
-1. **OSL Ma Chainmail 1**
-1. **OSL Ma Hagelslag**
-1. **OSL Ma Hexagon**
-1. **OSL Ma Hexagon 1**
-1. **OSL Ma Scales**
-1. **OSL Ma Soap Bubble**
-1. **OSL Ma Soap Bubble 1**
-1. **OSL Ma Toon**
-1. **OSL Ma Weave**
-1. **OSL Ma Weave 1**
-1. **OSL Mab Castironcover**
-1. **OSL Mab Checker.Osl**
-1. **OSL Mab Colourrange**
-1. **OSL Mab Concrete**
-1. **OSL Mab Diamondplate**
-1. **OSL Mab Diminishstripes**
-1. **OSL Mab Dots**
-1. **OSL Mab Hedge**
-1. **OSL Mab Hedgeimage**
-1. **OSL Mab Leopard**
-1. **OSL Mab Matrixdisplay**
-1. **OSL Mab Mountains**
-1. **OSL Mab Rain**
-1. **OSL Mab Randomcircle**
-1. **OSL Mab Range**
-1. **OSL Mab Ripples**
-1. **OSL Mab Semicircles**
-1. **OSL Mab Splat**
-1. **OSL Mab Stripes**
-1. **OSL Mab Symmetry**
-1. **OSL Mab Triangles.Osl**
-1. **OSL Mab Vectorrotate**
-1. **OSL Mab Vectorscale**
-1. **OSL Mabsphericaldots**
-1. **OSL Mandelbrot 1**
-1. **OSL Mandelbrot My Big**
-1. **OSL Manderlbrot**
-1. **OSL Mapping Rotate**
-1. **OSL Mapping Scale**
-1. **OSL Metal**
-1. **OSL Mirror H**
-1. **OSL Mirror Line**
-1. **OSL Mirror V**
-1. **OSL Mirror Xy**
-1. **OSL Mountain**
-1. **OSL Mr Mandelbrot**
-1. **OSL My Juliette**
-1. **OSL Node 4D Noise**
-1. **OSL Node Cellnoise**
-1. **OSL Odd Toon**
-1. **OSL Parquete Tile**
-1. **OSL Pattern Halftone 2**
-1. **OSL Patterns**
-1. **OSL Phong Ramp**
-1. **OSL Pie Wavy**
+```
+K1 — OSL Lg Eyeball 1
+K2 — OSL Lg Greenmarble
+K3 — OSL Lg Hex Tile
+K4 — OSL Lg Rustymetal
+K5 — OSL Lg Veined Marble
+K6 — OSL Ma 4D Voronoi
+K7 — OSL Ma Barb Wire
+K8 — OSL Ma Chain Link
+
+L1 — OSL Ma Chainmail
+L2 — OSL Ma Chainmail 1
+L3 — OSL Ma Hagelslag
+L4 — OSL Ma Hexagon
+L5 — OSL Ma Hexagon 1
+L6 — OSL Ma Scales
+L7 — OSL Ma Soap Bubble
+L8 — OSL Ma Soap Bubble 1
+
+M1 — OSL Ma Toon
+M2 — OSL Ma Weave
+M3 — OSL Ma Weave 1
+M4 — OSL Mab Castironcover
+M5 — OSL Mab Checker.Osl
+M6 — OSL Mab Colourrange
+M7 — OSL Mab Concrete
+M8 — OSL Mab Diamondplate
+
+N1 — OSL Mab Diminishstripes
+N2 — OSL Mab Dots
+N3 — OSL Mab Hedge
+N4 — OSL Mab Hedgeimage
+N5 — OSL Mab Leopard
+N6 — OSL Mab Matrixdisplay
+N7 — OSL Mab Mountains
+N8 — OSL Mab Rain
+
+O1 — OSL Mab Randomcircle
+O2 — OSL Mab Range
+O3 — OSL Mab Ripples
+O4 — OSL Mab Semicircles
+O5 — OSL Mab Splat
+O6 — OSL Mab Stripes
+O7 — OSL Mab Symmetry
+O8 — OSL Mab Triangles.Osl
+
+P1 — OSL Mab Vectorrotate
+P2 — OSL Mab Vectorscale
+P3 — OSL Mabsphericaldots
+P4 — OSL Mandelbrot 1
+P5 — OSL Mandelbrot My Big
+P6 — OSL Manderlbrot
+P7 — OSL Mapping Rotate
+P8 — OSL Mapping Scale
+
+Q1 — OSL Metal
+Q2 — OSL Mirror H
+Q3 — OSL Mirror Line
+Q4 — OSL Mirror V
+Q5 — OSL Mirror Xy
+Q6 — OSL Mountain
+Q7 — OSL Mr Mandelbrot
+Q8 — OSL My Juliette
+
+R1 — OSL Node 4D Noise
+R2 — OSL Node Cellnoise
+R3 — OSL Odd Toon
+R4 — OSL Parquete Tile
+R5 — OSL Pattern Halftone 2
+R6 — OSL Patterns
+R7 — OSL Phong Ramp
+R8 — OSL Pie Wavy
+```
 
 ![Matlib VX OSL 03](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-OSL/Matlib-VX-OSL-03.jpg)
 
-1. **OSL Planet**
-1. **OSL Planet Test**
-1. **OSL Posterise**
-1. **OSL Rainbow**
-1. **OSL Random**
-1. **OSL Random Circle**
-1. **OSL Random Dots**
-1. **OSL Range**
-1. **OSL Rotate**
-1. **OSL Rotate 180**
-1. **OSL Rotate 270**
-1. **OSL Rotate 90**
-1. **OSL Rotate Point Angle**
-1. **OSL Sa Input Rgb**
-1. **OSL Sa Mandelbrot**
-1. **OSL Scale**
-1. **OSL Scales**
-1. **OSL Scales 1**
-1. **OSL Schlik**
-1. **OSL Semi Circles**
-1. **OSL Sheet Occlusion**
-1. **OSL Sierpinski Squares**
-1. **OSL Sierpinski Squares 1**
-1. **OSL Simple Pie**
-1. **OSL Sine Fractal**
-1. **OSL Sine Stripes**
-1. **OSL Sinus**
-1. **OSL Smaller Stripes**
-1. **OSL Snowflake**
-1. **OSL Sprinkles**
-1. **OSL Squares**
-1. **OSL Starfield**
-1. **OSL Stones**
-1. **OSL Strips**
-1. **OSL Td Heart**
-1. **OSL Td Phong Ramp**
-1. **OSL Td Sine Stripes**
-1. **OSL Templates Dingto**
-1. **OSL Veined Marble**
-1. **OSL Watermelon**
-1. **OSL Wireframe**
-1. **OSL Wood**
-1. **OSL Wood 1**
+```
+S1 — OSL Planet
+S2 — OSL Planet Test
+S3 — OSL Posterise
+S4 — OSL Rainbow
+S5 — OSL Random
+S6 — OSL Random Circle
+S7 — OSL Random Dots
+S8 — OSL Range
+
+T1 — OSL Rotate
+T2 — OSL Rotate 180
+T3 — OSL Rotate 270
+T4 — OSL Rotate 90
+T5 — OSL Rotate Point Angle
+T6 — OSL Sa Input Rgb
+T7 — OSL Sa Mandelbrot
+T8 — OSL Scale
+
+U1 — OSL Scales
+U2 — OSL Scales 1
+U3 — OSL Schlik
+U4 — OSL Semi Circles
+U5 — OSL Sheet Occlusion
+U6 — OSL Sierpinski Squares
+U7 — OSL Sierpinski Squares 1
+U8 — OSL Simple Pie
+
+V1 — OSL Sine Fractal
+V2 — OSL Sine Stripes
+V3 — OSL Sinus
+V4 — OSL Smaller Stripes
+V5 — OSL Snowflake
+V6 — OSL Sprinkles
+V7 — OSL Squares
+V8 — OSL Starfield
+
+W1 — OSL Stones
+W2 — OSL Strips
+W3 — OSL Td Heart
+W4 — OSL Td Phong Ramp
+W5 — OSL Td Sine Stripes
+W6 — OSL Templates Dingto
+W7 — OSL Veined Marble
+W8 — OSL Watermelon
+
+X1 — OSL Wireframe
+X2 — OSL Wood
+X3 — OSL Wood 1
+```
