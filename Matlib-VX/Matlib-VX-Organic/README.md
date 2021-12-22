@@ -2,41 +2,41 @@
 
 ![Matlib VX Organic](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Organic/Matlib-VX-Organic.jpg)
 
-A1 - **Or Apple**<br>
-A2 - **Or Apple 2 G**<br>
-A3 - **Or Apple 3 G**<br>
-A4 - **Or Apple 4 G**<br>
-A5 - **Or Banana**<br>
-A6 - **Or Blood**<br>
+A1 - **OR Apple**<br>
+A2 - **OR Apple 2 G**<br>
+A3 - **OR Apple 3 G**<br>
+A4 - **OR Apple 4 G**<br>
+A5 - **OR Banana**<br>
+A6 - **OR Blood**<br>
 
-B1 - **Or Choc**<br>
-B2 - **Or Chocolate G**<br>
-B3 - **Or Chocolate Swirl**<br>
-B4 - **Or Coral**<br>
-B5 - **Or Gob Stopper G**<br>
-B6 - **Or Granny Smith G**<br>
+B1 - **OR Choc**<br>
+B2 - **OR Chocolate G**<br>
+B3 - **OR Chocolate Swirl**<br>
+B4 - **OR Coral**<br>
+B5 - **OR Gob Stopper G**<br>
+B6 - **OR Granny Smith G**<br>
 
-C1 - **Or Gummy Worm**<br>
-C2 - **Or Lemon**<br>
-C3 - **Or Lime**<br>
-C4 - **Or Milk Chocolate**<br>
-C5 - **Or Orange**<br>
-C6 - **Or Orange 1**<br>
+C1 - **OR Gummy Worm**<br>
+C2 - **OR Lemon**<br>
+C3 - **OR Lime**<br>
+C4 - **OR Milk Chocolate**<br>
+C5 - **OR Orange**<br>
+C6 - **OR Orange 1**<br>
 
-D1 - **Or Orange Pitted**<br>
-D2 - **Or Orange Skin G**<br>
-D3 - **Or Orange Spec**<br>
-D4 - **Or Organic Pearl**<br>
-D5 - **Or Organic Raspberry**<br>
-D6 - **Or Organic Slime**<br>
+D1 - **OR Orange Pitted**<br>
+D2 - **OR Orange Skin G**<br>
+D3 - **OR Orange Spec**<br>
+D4 - **OR Organic Pearl**<br>
+D5 - **OR Organic Raspberry**<br>
+D6 - **OR Organic Slime**<br>
 
-E1 - **Or Pearl Color**<br>
-E2 - **Or Pearl G**<br>
-E3 - **Or Porus Voronoi G**<br>
-E4 - **Or Raspberry**<br>
-E5 - **Or Red Apple**<br>
-E6 - **Or Sponge Espuma G**<br>
+E1 - **OR Pearl Color**<br>
+E2 - **OR Pearl G**<br>
+E3 - **OR Porus Voronoi G**<br>
+E4 - **OR Raspberry**<br>
+E5 - **OR Red Apple**<br>
+E6 - **OR Sponge Espuma G**<br>
 
-F1 - **Or Sponge Sml**<br>
-F2 - **Or Strawberry**<br>
-F3 - **Zero Emission**<br>
+F1 - **OR Sponge Sml**<br>
+F2 - **OR Strawberry**<br>
+F3 - **OR Strawberry.001**<br>
