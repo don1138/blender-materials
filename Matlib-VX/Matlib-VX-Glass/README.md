@@ -77,7 +77,11 @@ H5 — GL Dispersion
 H6 — GL Dispersion Caustic G
 H7 — GL Dispersive Glass G
 H8 — GL Facade Mod
+```
 
+![Matlib VX Glass 02](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Glass/Matlib-VX-Glass-02.jpg)
+
+```
 J1 — GL Fake Caustic Alt G
 J2 — GL Fake Caustic G
 J3 — GL Fake Glass G
