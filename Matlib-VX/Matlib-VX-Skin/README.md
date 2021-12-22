@@ -2,44 +2,55 @@
 
 ![Matlib VX Skin](https://github.com/don1138/blender-materials/blob/main/Matlib-VX/Matlib-VX-Skin/Matlib-VX-Skin.jpg)
 
-1. **SK African G**
-1. **SK Asian G**
-1. **SK Basic Ceramic Sss**
-1. **SK Basic Fur**
-1. **SK Basic Gummy Worm**
-1. **SK Basic Jelly 07**
-1. **SK Basic Jelly 09**
-1. **SK Basic Jelly 10**
-1. **SK Basic Leather Monkey**
-1. **SK Basic Skin Toon**
-1. **SK Basic Skin Wax**
-1. **SK Basic Sss**
-1. **SK Basic Sss Glossy Trans**
-1. **SK Basic Sss Jade**
-1. **SK Basic Test**
-1. **SK Basic Test G**
-1. **SK Basic Test Ma**
-1. **SK Dalmation G**
-1. **SK Depth Absorbsion G**
-1. **SK Europian G**
-1. **SK Leathe Black G**
-1. **SK Leather**
-1. **SK Leather Black G**
-1. **SK Leather Brown G**
-1. **SK Leather Procedural G**
-1. **SK Leather Procedural G.001**
-1. **SK New Test G**
-1. **SK Pimple G**
-1. **SK Pox**
-1. **SK Simple Skin 102 G**
-1. **SK Simulated Sss**
-1. **SK Skin**
-1. **SK Skin New Test G**
-1. **SK Skin New Test.001 G**
-1. **SK Skin Rough**
-1. **SK Skin Sss**
-1. **SK Skin Sss G**
-1. **SK Sss G**
-1. **SK Sss Toonish G**
-1. **SK Texture G**
-1. **SK Translucent G**
+
+```
+41 MATERIALS
+============
+
+A1 — SK African G
+A2 — SK Asian G
+A3 — SK Basic Ceramic Sss
+A4 — SK Basic Fur
+A5 — SK Basic Gummy Worm
+A6 — SK Basic Jelly 07
+A7 — SK Basic Jelly 09
+
+B1 — SK Basic Jelly 10
+B2 — SK Basic Leather Monkey
+B3 — SK Basic Skin Toon
+B4 — SK Basic Skin Wax
+B5 — SK Basic Sss
+B6 — SK Basic Sss Glossy Trans
+B7 — SK Basic Sss Jade
+
+C1 — SK Basic Test
+C2 — SK Basic Test G
+C3 — SK Basic Test Ma
+C4 — SK Dalmation G
+C5 — SK Depth Absorbsion G
+C6 — SK Europian G
+C7 — SK Leathe Black G
+
+D1 — SK Leather
+D2 — SK Leather Black G
+D3 — SK Leather Brown G
+D4 — SK Leather Procedural G
+D5 — SK Leather Procedural G.001
+D6 — SK New Test G
+D7 — SK Pimple G
+
+E1 — SK Pox
+E2 — SK Simple Skin 102 G
+E3 — SK Simulated Sss
+E4 — SK Skin
+E5 — SK Skin New Test G
+E6 — SK Skin New Test.001 G
+E7 — SK Skin Rough
+
+F1 — SK Skin Sss
+F2 — SK Skin Sss G
+F3 — SK Sss G
+F4 — SK Sss Toonish G
+F5 — SK Texture G
+F6 — SK Translucent G
+```
