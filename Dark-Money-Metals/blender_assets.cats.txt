@@ -1,0 +1,19 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+66c9f1c1-5276-45c2-88b2-8021cd8f3f94:Dark Money Metals:Dark Money Metals
+6d743a18-b9ff-4359-bda4-17aff34fb253:Dark Money Metals/Aluminium:Dark Money Metals-Aluminium
+7051843a-e73a-4961-8694-169a40e76e14:Dark Money Metals/Brass:Dark Money Metals-Brass
+cac58984-f0b9-4a50-a49a-dbb667bd6e9f:Dark Money Metals/Bronze:Dark Money Metals-Bronze
+3dc01256-25ef-4562-bd36-1b60b9508136:Dark Money Metals/Chrome:Dark Money Metals-Chrome
+aac01762-67e6-4295-97d9-c51fac872b48:Dark Money Metals/Copper:Dark Money Metals-Copper
+9bf03319-195c-4fb9-bb5b-fbb541bb83a4:Dark Money Metals/Gold:Dark Money Metals-Gold
+58ee863a-f700-4c75-8f48-323389c3c9a5:Dark Money Metals/Iron:Dark Money Metals-Iron
+878575d2-9e02-4e98-801a-b87b214e6116:Dark Money Metals/Lead:Dark Money Metals-Lead
+ebc903da-88a1-4072-b764-3889621233c7:Dark Money Metals/Rust:Dark Money Metals-Rust
+f73c3573-0d73-4077-8608-16ff5f32b40f:Dark Money Metals/Steel:Dark Money Metals-Steel
