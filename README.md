@@ -9,3 +9,6 @@
 
 ## [Matlib VX](https://github.com/don1138/blender-materials/tree/main/Matlib-VX)
 **908 Materials** - A port of the Materials Library files that shipped with the Blender 2.7.2-compatible version of the add-on, but which are missing from the version that ships with current Blender.
+
+## [Tutorials](https://github.com/don1138/blender-materials/tree/main/Tutorials)
+**85 Materials** - Blender materials I made in 2021 from watching tutorials.

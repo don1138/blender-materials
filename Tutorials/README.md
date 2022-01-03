@@ -21,7 +21,7 @@ A7 — Architectural - RK Marble
 B1 — Architectural - RK Plaster
 B2 — Architectural - SB20 Flagstone
 B3 — Effects - Grunge Material
-B4 — Effects - Holo - Skin
+B4 — Effects - Holo Bands Mid / Holo Bands Tight
 B5 — Effects - Neon Sign
 B6 — Effects - Plasma Orb
 B7 — Effects - Procedural Rust & Scratches
@@ -96,7 +96,7 @@ K7 — Organic - RK Rocky Planet
 
 L1 — Organic - RK Sand
 L2 — Organic - RK Sponge
-L3 — Organic - Rope
+L3 — Organic - Rope (Removed)
 L4 — Organic - Simple Ice
 L5 — Organic - Skin Material A
 L6 — Organic - Skin Material B
