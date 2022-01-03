@@ -65,7 +65,11 @@ G4 — Metal - SB45 Silver C
 G5 — Metal - SB46 Aluminium A
 G6 — Metal - SB46 Aluminium B (Nugget)
 G7 — Metal - SB46 Aluminium C (Ingot)
+```
 
+![Tutorials Thumbnails B](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/Tutorials-B.jpg)
+
+```
 H1 — Metal - SB47 Gold A
 H2 — Metal - SB47 Gold B (Nugget)
 H3 — Metal - SB47 Gold C
@@ -73,11 +77,7 @@ H4 — Metal - SB52 Copper A
 H5 — Metal - SB52 Copper B (Nugget)
 H6 — Metal - SB52 Copper C (Ingot)
 H7 — Metal - SB53 Chromium A
-```
 
-![Tutorials Thumbnails B](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/Tutorials-B.jpg)
-
-```
 J1 — Metal - SB53 Chromium B
 J2 — Metal - SB53 Chromium C
 J3 — Metal - Worn Edges
