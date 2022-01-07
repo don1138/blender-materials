@@ -12,3 +12,11 @@
 
 ## [Tutorials](https://github.com/don1138/blender-materials/tree/main/Tutorials)
 **85 Materials** - Blender materials I made in 2021 from watching tutorials.
+
+<br><br>
+<p align="center">
+  <img align="center" src="https://badges.pufler.dev/created/don1138/blender-materials?style=for-the-badge&colorA=222&colorB=48684b" alt="Repo Created">
+  <img align="center" src="https://badges.pufler.dev/updated/don1138/blender-materials?style=for-the-badge&colorA=222&colorB=48684b" alt="Repo Updated">
+</p>
+
+![Alt](https://repobeats.axiom.co/api/embed/6dfa43ed9f8d84a8d280e01482bcec74e5f515af.svg "Repobeats analytics image")
