@@ -50,7 +50,7 @@ E5 — Metal - Fresnel Steel
 E6 — Metal - Liquid Metal
 E7 — Metal - Procedural Damaged Metal
 
-F1 — Metal - RK  Scratched Metal
+F1 — Metal - RK Scratched Metal
 F2 — Metal - RK Copper
 F3 — Metal - RK Galvanized Steel
 F4 — Metal - RK Gold Nugget
