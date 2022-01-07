@@ -1,6 +1,6 @@
 # Sources
 
-I learned a lot by follwing these tutorails. If you're learning, you sould do the same.
+I learned a lot from following these tutorials. If you're getting started with procedural materials, you should do the same.
 
 ## Tutorials 2021
 
