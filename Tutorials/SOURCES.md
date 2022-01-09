@@ -14,7 +14,7 @@ I learned a lot from following these tutorials. If you're getting started with p
 - A6 — RK Cobblestone - [Procedural Cobblestone Material (Blender Tutorial)](https://www.youtube.com/watch?v=9Tq-6HReNEk)
 - A7 — RK Marble
 - B1 — RK Plaster - [Procedural Plaster Material (Blender Tutorial)](https://www.youtube.com/watch?v=EwB3HWcUdEk)
-- B2 — SB20 Flag[Procedural Nodes (part 20) - Procedural Flagstone texture in Blender](https://www.youtube.com/watch?v=JpJ3sEHfXJU)
+- B2 — SB20 Flagstone - [Procedural Nodes (part 20) - Procedural Flagstone texture in Blender](https://www.youtube.com/watch?v=JpJ3sEHfXJU)
 - B3 — Grunge Material - [How to make a procedural grunge material | Blender 2.91.2](https://www.youtube.com/watch?v=Uf2BWRPwI8M)
 
 ### Effects
