@@ -28,7 +28,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 - C1 — Procedural Surface Imperfections (Node Group)
 - C2 — Rust A
 - C3 — Rust B
-- C4 — Surface Cracks
+- C4 — Surface Cracks - [Procedural cracks in blender 2.8](https://www.youtube.com/watch?v=NgQXgXCR3TE)
 - C5 — Surface Imperfections - [Procedural Surface Imperfections in Blender!](https://www.youtube.com/watch?v=tiuGJw8vyvU)
 - C6 — X-Ray
 
