@@ -25,7 +25,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 - B5 — Neon Sign
 - B6 — Plasma Orb - [Glass Plasma Orb in Blender (Blender Tutorial)](https://www.youtube.com/watch?v=rtPzXrZ23k0)
 - B7 — Procedural Rust & Scratches - [Blender Tutorial: Rust & Scratches (Procedurally)](https://www.youtube.com/watch?v=WxAuE6tmKmo)
-- C1 — Procedural Surface Imperfections (Node Group)
+- C1 — Procedural Surface Imperfections (Node Group) - [How to Create Completely Procedural Surface Imperfections (Blender Tutorial)](https://www.youtube.com/watch?v=YL1LjaPL9IM)
 - C2 — Rust A
 - C3 — Rust B
 - C4 — Surface Cracks - [Procedural cracks in blender 2.8](https://www.youtube.com/watch?v=NgQXgXCR3TE)
