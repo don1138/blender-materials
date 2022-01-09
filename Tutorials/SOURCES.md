@@ -11,8 +11,8 @@ I learned a lot from following them. If you're new to procedural materials, you 
 - A1 — RK Tiles - [Procedural Tile Material (Blender Tutorial)](https://www.youtube.com/watch?v=wccIBwnfhrM)
 - A2 — Procedural Road
 - A3 — Procedural Street (Default Cube)
-- A4 — Procedural Tiles Ball
-- A5 — Procedural Tiles Wall
+- A4 — Procedural Tiles Ball - [Procedural Material Tutorial [Tile Shader in Blender 3.0]](https://www.youtube.com/watch?v=Hl8nfblJNF80)
+- A5 — Procedural Tiles Wall - "
 - A6 — RK Cobblestone - [Procedural Cobblestone Material (Blender Tutorial)](https://www.youtube.com/watch?v=9Tq-6HReNEk)
 - A7 — RK Marble
 - B1 — RK Plaster - [Procedural Plaster Material (Blender Tutorial)](https://www.youtube.com/watch?v=EwB3HWcUdEk)
@@ -34,7 +34,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 
 ### Glass
 
-- C7 — Frosted Window
+- C7 — Frosted Window - [Making frosted window in Blender Cycles](https://www.youtube.com/watch?v=-au3FknKUhs)
 - D1 — Perfect Glass
 - D2 — Plastic Translucent - [How to make quick and easy clear plastic material in Blender (Cycles) | Blender 2.8 tutorial](https://www.youtube.com/watch?v=JSyU8IlF2fE)
 - D3 — Plastic Transparent - "
