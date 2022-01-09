@@ -1,5 +1,7 @@
 # Sources
 
+I learned a lot from following these tutorials. If you're getting started with procedural materials, you should do the same.
+
 ## Tutorials 2021
 
 ### Architectural
