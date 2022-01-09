@@ -48,7 +48,7 @@ E3 — Graphic - Toon Water Shader
 E4 — Graphic - Wavelength Rainbow
 E5 — Metal - Fresnel Steel
 E6 — Metal - Liquid Metal
-E7 — Metal - Procedural Damaged Metal
+E7 — Metal - RK Damaged Metal
 
 F1 — Metal - RK Scratched Metal
 F2 — Metal - RK Copper
@@ -91,7 +91,7 @@ K2 — Organic - RK Cardboard
 K3 — Organic - RK Cheese
 K4 — Organic - RK Clay
 K5 — Organic - RK Lava
-K6 — Organic - RK Mud-Dirt
+K6 — Organic - SB62 Mud-Dirt
 K7 — Organic - RK Rocky Planet
 
 L1 — Organic - RK Sand
@@ -102,7 +102,7 @@ L5 — Organic - Skin Material A
 L6 — Organic - Skin Material B
 L7 — Stone - Procedural Crater
 
-M1 — Stone - Procedural Rock
+M1 — Stone - RK Rock
 M2 — Stone - RK Concrete
 M3 — Stone - Rock A
 M4 — Stone - Rock B
