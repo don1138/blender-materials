@@ -1,12 +1,14 @@
 # Sources
 
-I learned a lot from following these tutorials. If you're getting started with procedural materials, you should do the same.
+Here's a list of the source tutorials for these mats, at least the ones I've been able to track down.
+
+I learned a lot from following them. If you're new to procedural materials, you should do the same.
 
 ## Tutorials 2021
 
 ### Architectural
 
-- A1 — Procedural Floor Tiles
+- A1 — RK Tiles - [Procedural Tile Material (Blender Tutorial)](https://www.youtube.com/watch?v=wccIBwnfhrM)
 - A2 — Procedural Road
 - A3 — Procedural Street (Default Cube)
 - A4 — Procedural Tiles Ball

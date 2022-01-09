@@ -10,7 +10,7 @@ Blender materials I made in 2021 from watching tutorials.
 85 MATERIALS
 ============
 
-A1 — Architectural - Procedural Floor Tiles
+A1 — Architectural - RK Tiles
 A2 — Architectural - Procedural Road
 A3 — Architectural - Procedural Street (Default Cube)
 A4 — Architectural - Procedural Tiles Ball
