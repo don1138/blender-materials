@@ -1,6 +1,9 @@
 # Blender Materials
 ### A Repository of Found and Collected Blender Materials
 
+## [Chaos Metals](https://github.com/don1138/blender-materials/tree/main/Chaos-Metals)
+**15 Materials** - Blender materials based on specs provided by Christopher Nichols' [**Understanding Metalness**](https://www.chaos.com/blog/understanding-metalness) on chaos.com.
+
 ## [Dark Money Metals](https://github.com/don1138/blender-materials/tree/main/Dark-Money-Metals)
 **47 Materials** - Blender materials based on specs provided by Jarrod Hasenjäger's [**Material Studies: Metals**](https://www.artstation.com/artwork/aL4JR).
 
