@@ -10,7 +10,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 
 - A1 — RK Tiles - [Procedural Tile Material (Blender Tutorial)](https://www.youtube.com/watch?v=wccIBwnfhrM)
 - A2 — Procedural Road
-- A3 — Procedural Street (Default Cube)
+- A3 — Procedural Street (Default Cube) - [Procedural Streets](https://www.youtube.com/watch?v=-6GxKIReJ_0)
 - A4 — Procedural Tiles Ball - [Procedural Material Tutorial [Tile Shader in Blender 3.0]](https://www.youtube.com/watch?v=Hl8nfblJNF80)
 - A5 — Procedural Tiles Wall - "
 - A6 — RK Cobblestone - [Procedural Cobblestone Material (Blender Tutorial)](https://www.youtube.com/watch?v=9Tq-6HReNEk)
@@ -47,7 +47,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 - D7 — Halftone Shader - [Blender halftone shader](https://www.youtube.com/watch?v=nj4zkFPE1cA)
 - E1 — Hatched - [Procedural Nodes (part 30) - 3 Intentional procedural textures in Blender](https://www.youtube.com/watch?v=p2kBslArMBg)
 - E2 — Hatching - [Create a Procedural Hatching Shader in Blender Cycles](https://www.youtube.com/watch?v=KXD2eQe3F8Q)
-- E3 — Toon Water Shader
+- E3 — Toon Water Shader - [Toon Water Shader](https://www.youtube.com/watch?v=P99WGAZf20s&feature=emb_title)
 - E4 — Wavelength Rainbow
 
 ### Metal
@@ -79,12 +79,12 @@ I learned a lot from following them. If you're new to procedural materials, you 
 - J1 — SB53 Chromium B - "
 - J2 — SB53 Chromium C - "
 - J3 — Worn Edges - [WORN EDGES MATERIAL TUTORIAL IN BLENDER](https://www.youtube.com/watch?v=dhuKAg3W19I)
-- J4 — Worn Metal
+- J4 — Worn Metal - [Daily Blender Secrets - Worn Edges](https://www.youtube.com/watch?v=R0vhlxhCUFw)
 
 ### Organic
 
 - J5 — Leather
-- J6 — Moss
+- J6 — Moss - [How to make Procedural Moss in Blender](https://www.youtube.com/watch?v=zs38-WOvdXM)
 - J7 — Procedural Ice
 - K1 — Procedural Orange - [Orange | Blender procedural texture | Tutorial](https://www.youtube.com/watch?v=R3Q5dvtzCGE)
 - K2 — RK Cardboard - [Procedural Cardboard Material (Blender Tutorial)](https://www.youtube.com/watch?v=lHaFHPz46kM)
@@ -111,6 +111,10 @@ I learned a lot from following them. If you're new to procedural materials, you 
 - M7 — Rock E - [Quick and easy rock material for Cycles AND Eevee (Blender tutorial)](https://www.youtube.com/watch?v=YpktG9CcSKY&feature=youtu.be)
 - N1 — Ultimate Concrete 0.2
 
-
-
-<!-- - [Procedural Scratches in Blender in Under 3 Minutes](https://www.youtube.com/watch?v=cnjtFfz5OLg) -->
+<!-- - Noisy Voronoi Bump
+- Procedural Asphalt - [Realistic Asphalt Material (Blender Tutorial)](https://www.youtube.com/watch?v=gnA9Ge9xI80)
+- Procedural Bricks - [Learn to create Procedural Bricks in less than 3 minutes in Blender - Blender 2.9 Eevee](https://www.youtube.com/watch?v=pejoJfyROC0)
+- Procedural Painted Wall - [The Easy Way To Make Beautiful Interiors In Blender](https://www.youtube.com/watch?v=PoSvCn1Jl6g)
+- Procedural Scratches - [Procedural Scratches in Blender in Under 3 Minutes](https://www.youtube.com/watch?v=cnjtFfz5OLg)
+- Water Puddles
+- Wet Surface -->
