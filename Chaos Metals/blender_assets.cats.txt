@@ -1,0 +1,12 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+f388a5ab-2b63-44a0-9542-31ea6702b3ab:Chaos Metals:Chaos Metals
+ed78c06e-d6cf-4eb1-8355-0f9ffb8bc931:Chaos Metals/Base Metals:Chaos Metals-Base Metals
+9b8cf3bd-bce1-4647-8d3d-e635ef7c6eaf:Chaos Metals/Heavy Metals:Chaos Metals-Heavy Metals
+6970db4a-5f51-4dab-b2b9-75aebd7501af:Chaos Metals/Noble Metals:Chaos Metals-Noble Metals
