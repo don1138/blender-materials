@@ -2,8 +2,8 @@
 
 Blender materials I made from watching tutorials.
 
-* **Tutorials 2021.blend** includes Asset Browser swatches (Blender 3.0+)
-* **Sources.md** is a list of links to the tutorials
+* **Tutorials-2021.blend** includes Asset Browser swatches (Blender 3.0+)
+* **Sources-2021.md** is a list of links to the tutorials
 
 ![Tutorials Thumbnails A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/Tutorials-A.jpg)
 
