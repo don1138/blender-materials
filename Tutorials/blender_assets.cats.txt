@@ -11,5 +11,7 @@ d34f1a05-79e9-4e65-a4dc-fbfaf7259f95:Effects:Effects
 58b78a34-5f03-48c6-bf92-774068820594:Glass:Glass
 d8b98673-b3f4-4177-b078-b05798ab63e2:Graphic:Graphic
 f6e88261-2a77-49c1-befe-425218c889cc:Metal:Metal
+0d305cc6-b169-429d-bd73-ede6d941f79e:Nodes:Nodes
 7574d88a-30eb-4901-87c0-dab903be2b10:Organic:Organic
 1c7249d0-f5ba-44f5-b798-a4e4e5a26d3b:Stone:Stone
+8f5bd57b-0dff-4329-a028-36e01a984792:Worlds:Worlds

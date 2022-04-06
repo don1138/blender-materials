@@ -17,6 +17,8 @@ I learned a lot from following them. If you're new to procedural materials, you 
 [Anti-Seam]()
 [Anti-Seam Node]()
 [Holographic Shader](https://www.youtube.com/watch?v=0Kpx21jcte0)
+[Material Chunky](https://www.youtube.com/watch?v=QLgsUih74UU)
+[Material Greebles](https://www.youtube.com/watch?v=QLgsUih74UU)
 [Noisy Voronoi Bump]()
 [Procedural Scratches](https://www.youtube.com/watch?v=cnjtFfz5OLg)
 [Water Puddles]()
