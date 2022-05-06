@@ -28,12 +28,12 @@ I learned a lot from following them. If you're new to procedural materials, you 
 ### Glass
 
 * [Pidgy Smart Glass]()
-* [Toon Shader](https://www.youtube.com/watch?v=CQqONwef83s)
 
 ### Graphic
 
 * [DC Eevee Halftone Shader](https://www.youtube.com/watch?v=dRP1DqShceM)
 * [Stripes]()
+* [Toon Shader](https://www.youtube.com/watch?v=CQqONwef83s)
 
 ### Metal
 
@@ -47,10 +47,9 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [artist.B Sandblasted Iron](https://www.youtube.com/watch?v=ofeFJFCq1OE)
 * [artist.B Sandblasted Steel](https://www.youtube.com/watch?v=o0zm9ocmIaI)
 * [Photorealistic Copper](https://www.youtube.com/watch?v=KqM0LTO70RE)
-* [RK Dirty Metal](https://www.youtube.com/watch?v=uqfcV56SHMc)
 * [Metal Foil](https://www.youtube.com/watch?v=MEkKfXwpZcs)
 * [Pipe](https://www.youtube.com/watch?v=m2KPMqDI7bg&t=77s)
-* [RK Dirty Metal](https://www.youtube.com/watch?v=MjM16FUMOKM)
+* [RK Dirty Metal](https://www.youtube.com/watch?v=uqfcV56SHMc)
 
 ### Organic
 
@@ -59,6 +58,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [Cookie](https://www.youtube.com/watch?v=VNluiXnmi-8)
 * [Realistic Snow](https://www.youtube.com/watch?v=fcDFntILn0M&t=15s)
 * [RK Clay](https://www.youtube.com/watch?v=eYw5sbF5bhU)
+* [RK Skin](https://www.youtube.com/watch?v=iDXGPsrO0_M)
 * [Sand](https://www.youtube.com/watch?v=MjM16FUMOKM)
 * [Sand Particle](https://www.youtube.com/watch?v=MjM16FUMOKM)
 * [Snow]()
@@ -68,4 +68,5 @@ I learned a lot from following them. If you're new to procedural materials, you 
 ### Stone
 
 * [RK Chunky Rock](https://www.youtube.com/watch?v=xWT_7jUTW4Q)
+* [RK Coal](https://www.youtube.com/watch?v=fsVgkJeH7Yo)
 * [RK Smooth Concrete](https://www.youtube.com/watch?v=uCyUt1Jaufk)
