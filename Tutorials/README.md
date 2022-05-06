@@ -180,4 +180,54 @@ F7 – Stone — RK Chunky Rock
 G1 – Stone — RK Coal
 G1 – Stone — RK Smooth Concrete
 
-````
+```
+
+# Nodes (30 Nodes)
+
+* **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
+
+```
+NODES
+30 NODES
+========
+
+NODES > COLORS
+
+Blackbody Artificial Light
+Blackbody Incadescent/Fluorescent Light
+Blackbody Natural Light
+RAL Black & White Hues
+RAL Blue Hues
+RAL Brown Hues
+RAL Green Hues
+RAL Grey Hues
+RAL Orange Hues
+RAL Red Hues
+RAL Violet Hues
+RAL Yellow Hues
+RGB Natural Light
+
+NODES > COMPOSITOR
+
+Denoise Basic
+Denoise MultiPass
+Denoise MultiPass Transmission
+Denoise Shadow Catcher
+
+NODES > EFFECTS
+
+Blur Group (White Noise)
+Blur Node (Noise)
+Corrosion v1
+Corrosion v2
+Corrosion v3
+Corrosion v4
+Edge Mask
+Image Nodes
+Musgrave Mix
+Rust Pattern
+Rusty Metal
+Specular
+Stencil Mask
+
+```
