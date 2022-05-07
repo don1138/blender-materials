@@ -1,6 +1,6 @@
 # Tutorials
 
-Collected Blender materials and nodes I've made from tips and tutorials.
+Collected Blender materials, nodes, and worlds I've made from tips and tutorials.
 
 # Tutorials 2021 (85 Materials)
 
