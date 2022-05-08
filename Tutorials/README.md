@@ -1,6 +1,6 @@
 # Tutorials
 
-Collected Blender materials and nodes I've made from tips and tutorials.
+Collected Blender materials, nodes, and worlds I've made from tips and tutorials.
 
 # Tutorials 2021 (85 Materials)
 
@@ -182,7 +182,7 @@ G1 – Stone — RK Smooth Concrete
 
 ```
 
-# Nodes (30 Nodes)
+# Nodes (30 Nodes & 8 Worlds)
 
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
@@ -229,5 +229,16 @@ Rust Pattern
 Rusty Metal
 Specular
 Stencil Mask
+
+WORLDS
+
+Chrome World
+Gradient World
+Grunge Vignette World
+Moon
+Noon
+Sci-Fi
+Starfield
+Sunset
 
 ```
