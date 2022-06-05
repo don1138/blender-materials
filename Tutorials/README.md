@@ -193,9 +193,7 @@ NODES
 
 NODES > COLORS
 
-Blackbody Artificial Light
-Blackbody Incadescent/Fluorescent Light
-Blackbody Natural Light
+Fitzpatrick Scale
 RAL Black & White Hues
 RAL Blue Hues
 RAL Brown Hues
@@ -205,7 +203,7 @@ RAL Orange Hues
 RAL Red Hues
 RAL Violet Hues
 RAL Yellow Hues
-RGB Natural Light
+Skin Tones
 
 NODES > COMPOSITOR
 
@@ -213,6 +211,7 @@ Denoise Basic
 Denoise MultiPass
 Denoise MultiPass Transmission
 Denoise Shadow Catcher
+Transparent Shadow Catcher
 
 NODES > EFFECTS
 
@@ -229,8 +228,16 @@ Rust Pattern
 Rusty Metal
 Specular
 Stencil Mask
+Subsurface Scattering
 
-WORLDS
+NODE > LIGHT COLORS
+
+Blackbody Artificial Light
+Blackbody Incadescent/Fluorescent Light
+Blackbody Natural Light
+RGB Natural Light
+
+NODES > WORLDS
 
 Chrome World
 Gradient World
@@ -241,4 +248,20 @@ Sci-Fi
 Starfield
 Sunset
 
+TUTORIALS > EFFECTS
+
+AO Floor
+AO Object
+AO Rust
+Corrosion v0
+Corrosion v1
+Corrosion v2
+Corrosion v3
+Corrosion v3a
+Corrosion v4
+Corrosion v5
+
+TUTORIALS > LIQUID
+
+Water
 ```
