@@ -117,83 +117,122 @@ M7 — Stone - Rock E
 N1 — Stone - Ultimate Concrete 0.2
 
 ```
-# Tutorials 2022 (44 Materials)
+# Tutorials 2022 (68 Materials)
 
 * **Tutorials-2022.blend** includes Asset Browser swatches (Blender 3.0+)
 * **Sources-2022.md** is a list of links to the tutorials
 
-![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tutorials-2022.jpg)
+![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-a.jpg)
 
 ```
-TUTORIALS 2022
-44 MATERIALS
-==============
-
 A1 — Architectural — Procedural Asphalt
 A2 — Architectural — Procedural Bricks
 A3 — Architectural — Procedural Painted Wall
-A4 — Effects — Anti—Seam
-A5 — Effects — Anti—Seam Node
-A6 — Effects — DC Rust
-A7 — Effects — Holographic Shader
+A4 — Architectural — RK Asphalt
+```
+![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-b.jpg)
 
-B1 — Effects — Material Chunky
-B2 — Effects — Material Greebles
-B3 — Effects — Noisy Voronoi Bump
-B4 — Effects — Procedural Scratches
-B5 — Effects — Water Puddles
-B6 — Effects — Wet Surface
-B7 — Glass — Pidgy Smart Glass
+```
+B1 — Effects — Anti—Seam
+B2 — Effects — Anti—Seam Node
+B3 — Effects — DC Rust
+B4 — Effects — Diverse Detail
+B5 — Effects — Fascinating Emission
+B6 — Effects — Faux Displacement
+B7 — Effects — Holographic Shader
+B8 — Effects — Layered Abstract Material
+B9 — Effects — Material Chunky
+B10 — Effects — Material Greebles
+B11 — Effects — Noisy Voronoi Bump
+B12 — Effects — Procedural Scratches
+B13 — Effects — SB Scratches
+B14 — Effects — Simple Flame
+B15 — Effects — Studio Floor
+B16 — Effects — Water Puddles
+B17 — Effects — Wet Surface
+```
+![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-c.jpg)
 
-C1 — Graphic — DC Eevee Halftone Shader
-C2 — Graphic — Stripes
-C3 — Graphic — Toon Shader
-C4 — Metal — artist.B Brushed Steel
-C5 — Metal — artist.B Brushed Titanium
-C6 — Metal — artist.B Diamond Cut Steel
-C7 — Metal — artist.B Etched Steel
+```
+C1 — Glass — Pidgy Smart Glass
+C2 — Glass — Refraction Glass
+C3 — Glass — SB Window Smudges
+C4 — Glass — Transparent Polypropylene
+C5 — Glass — Transparent Polypropylene Alt
+```
+![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-d.jpg)
 
-D1 — Metal — artist.B Florentine Steel
-D2 — Metal — artist.B Hammered Copper
-D3 — Metal — artist.B Hammered Steel
-D4 — Metal — artist.B Sandblasted Iron
-D5 — Metal — artist.B Sandblasted Steel
-D6 — Metal — Metal Foil
-D7 — Metal — Photorealistic Copper
+```
+D1 — Graphic — DC Eevee Halftone Shader
+D2 — Graphic — Stripes
+D3 — Graphic — Toon Shader
+D4 — Graphic — Truchet
+```
+![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-e.jpg)
 
-E1 — Metal — Pipe
-E2 — Metal — RK Dirty Metal
-E3 – Organic — Cardboard (Derek Elliott)
-E4 – Organic — Cardboard (Sanctus)
-E5 – Organic — Cookie
-E6 – Organic — Realistic Snow
-E7 – Organic — RK Clay
+```
+E1 — Liquid – FP Water
+E2 — Liquid – Wine
+```
+![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-f.jpg)
 
-F1 – Organic — RK Skin
-F2 – Organic — Sand
-F3 – Organic — Sand Particle
-F4 – Organic — Snow
-F5 – Organic — Sponge Foam
-F6 – Organic — Wood Plank
-F7 – Stone — RK Chunky Rock
+```
+F1 — Metal — artist.B Brushed Steel
+F2 — Metal — artist.B Brushed Titanium
+F3 — Metal — artist.B Diamond Cut Steel
+F4 — Metal — artist.B Etched Steel
+F5 — Metal — artist.B Florentine Steel
+F6 — Metal — artist.B Hammered Copper
+F7 — Metal — artist.B Hammered Steel
+F8 — Metal — artist.B Sandblasted Iron
+F8 — Metal — artist.B Sandblasted Steel
+F10 — Metal — Metal Foil
+F11 — Metal — Photorealistic Copper
+F12 — Metal — Pipe
+F13 — Metal — RK Brushed Metal
+F14 — Metal — RK Dented Metal
+F15 — Metal — RK Dirty Metal
+```
+![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-g.jpg)
 
-G1 – Stone — RK Coal
-G1 – Stone — RK Smooth Concrete
+```
+G1 — Organic — Base Clay
+G2 — Organic — Cardboard (Derek Elliott)
+G3 — Organic — Cardboard (Sanctus)
+G4 — Organic — Cookie
+G5 — Organic — Laminate
+G6 — Organic — Natural Clay
+G7 — Organic — Realistic Snow
+G8 — Organic — RK Clay
+G9 — Organic — RK Coal
+G10 — Organic — RK Coral
+G11 — Organic — RK Ice
+G12 — Organic — RK Skin
+G13 — Organic — Sand
+G14 — Organic — Sand Particle
+G15 — Organic — Snow
+G16 — Organic — Sponge Foam
+G17 — Organic — Wood Plank
+```
+![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-h.jpg)
+
+```
+H1 — Stone — RK Chunky Rock
+H2 — Stone — RK Smooth Concrete
 
 ```
 
-# Nodes (30 Nodes & 8 Worlds)
+# Nodes (11 materials, 43 Nodes, 9 Worlds)
 
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
 ```
 NODES
-30 NODES
+63 NODES
 ========
 
 NODES > COLORS
 
-Fitzpatrick Scale
 RAL Black & White Hues
 RAL Blue Hues
 RAL Brown Hues
@@ -203,6 +242,7 @@ RAL Orange Hues
 RAL Red Hues
 RAL Violet Hues
 RAL Yellow Hues
+Skin - Fitzpatrick Scale
 Skin Tones
 
 NODES > COMPOSITOR
@@ -211,24 +251,32 @@ Denoise Basic
 Denoise MultiPass
 Denoise MultiPass Transmission
 Denoise Shadow Catcher
+Lens Distortion & Glare
+RGB Split
 Transparent Shadow Catcher
 
 NODES > EFFECTS
 
 Blur Group (White Noise)
 Blur Node (Noise)
+Color Shift
 Corrosion v1
 Corrosion v2
 Corrosion v3
 Corrosion v4
 Edge Mask
+Eight Columns
+Exposed Color Ramp
+HSV Blend
 Image Nodes
 Musgrave Mix
 Rust Pattern
 Rusty Metal
 Specular
+Split X
 Stencil Mask
 Subsurface Scattering
+Tile Breaker
 
 NODE > LIGHT COLORS
 
@@ -239,14 +287,15 @@ RGB Natural Light
 
 NODES > WORLDS
 
-Chrome World
-Gradient World
-Grunge Vignette World
-Moon
-Noon
-Sci-Fi
-Starfield
-Sunset
+World Chrome
+World Gradient
+World Grunge Vignette
+World Hazy Underwater
+World Moon
+World Noon
+World Sci-Fi
+World Starfield
+World Sunset
 
 TUTORIALS > EFFECTS
 
@@ -257,7 +306,6 @@ Corrosion v0
 Corrosion v1
 Corrosion v2
 Corrosion v3
-Corrosion v3a
 Corrosion v4
 Corrosion v5
 
