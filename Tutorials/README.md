@@ -226,6 +226,8 @@ G17 — Organic — Wood Plank
 H1 — Stone — RK Chunky Rock
 H2 — Stone — RK Smooth Concrete
 
+J1 – Volume – Object-Centered Fog
+
 ```
 
 # Nodes (11 materials, 43 Nodes, 9 Worlds)
