@@ -4,16 +4,16 @@ Here's a list of the source tutorials for these mats, at least the ones I've bee
 
 I learned a lot from following them. If you're new to procedural materials, you should do the same.
 
-## Tutorials 2022
+## Tutorials 2022 (67 Materials)
 
-### Architectural
+### Architectural (4)
 
 * Procedural Asphalt
 * [Procedural Bricks](https://www.instagram.com/reel/CZQ_7CBr0Hf/)
 * Procedural Painted Wall
 * [RK Asphalt](https://www.youtube.com/watch?v=Eofg9SBcdBY)
 
-### Effects
+### Effects (17)
 
 * Anti-Seam
 * Anti-Seam Node
@@ -33,7 +33,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * Water Puddles
 * Wet Surface
 
-### Glass
+### Glass (5)
 
 * Pidgy Smart Glass
 * Refraction Glass
@@ -41,19 +41,19 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [Transparent Polypropylene](https://blenderartists.org/t/transparent-polypropylene-shader/682497/12)
 * [Transparent Polypropylene Alt](https://blenderartists.org/t/transparent-polypropylene-shader/682497/12)
 
-### Graphic
+### Graphic (4)
 
 * [DC Eevee Halftone Shader](https://www.youtube.com/watch?v=dRP1DqShceM)
 * Stripes
 * [Toon Shader](https://www.youtube.com/watch?v=CQqONwef83s)
 * [Truchet](https://twitter.com/cmzw_/status/1527987757254967297?s=20&t=hPITg2EM9Hb9ocBpJV6AwA)
 
-### Liquid
+### Liquid (2)
 
 * [FP Water](https://www.youtube.com/watch?v=j3-Ezn47xz0)
 * Wine
 
-### Metal
+### Metal (15)
 
 * [artist.B Brushed Steel](https://www.youtube.com/watch?v=o0zm9ocmIaI)
 * [artist.B Brushed Titanium](https://www.youtube.com/watch?v=ofeFJFCq1OE)
@@ -71,7 +71,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [RK Dented Metal](https://www.youtube.com/watch?v=YD2OvkAN15M)
 * [RK Dirty Metal](https://www.youtube.com/watch?v=uqfcV56SHMc)
 
-### Organic
+### Organic (17)
 
 * Base Clay
 * [Cardboard (Derek Elliott)](https://www.youtube.com/watch?v=O1em_ijMvUk)
@@ -91,11 +91,11 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [Sponge Foam](https://www.youtube.com/watch?v=m2KPMqDI7bg&t=77s)
 * [Wood Plank](https://www.youtube.com/watch?v=CHxelgYdBaI&t=46s)
 
-### Stone
+### Stone (2)
 
 * [RK Chunky Rock](https://www.youtube.com/watch?v=xWT_7jUTW4Q)
 * [RK Smooth Concrete](https://www.youtube.com/watch?v=uCyUt1Jaufk)
 
-### Volume
+### Volume (1)
 
 * [Object-Centered Fog](https://twitter.com/brentpatterson/status/1544855232773083138)
