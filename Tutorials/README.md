@@ -139,12 +139,14 @@ B3 — Effects — DC Rust
 B4 — Effects — Diverse Detail
 B5 — Effects — Fascinating Emission
 B6 — Effects — Faux Displacement
+
 B7 — Effects — Holographic Shader
 B8 — Effects — Layered Abstract Material
 B9 — Effects — Material Chunky
 B10 — Effects — Material Greebles
 B11 — Effects — Noisy Voronoi Bump
 B12 — Effects — Procedural Scratches
+
 B13 — Effects — SB Scratches
 B14 — Effects — Simple Flame
 B15 — Effects — Studio Floor
@@ -183,12 +185,14 @@ F3 — Metal — artist.B Diamond Cut Steel
 F4 — Metal — artist.B Etched Steel
 F5 — Metal — artist.B Florentine Steel
 F6 — Metal — artist.B Hammered Copper
+
 F7 — Metal — artist.B Hammered Steel
 F8 — Metal — artist.B Sandblasted Iron
 F8 — Metal — artist.B Sandblasted Steel
 F10 — Metal — Metal Foil
 F11 — Metal — Photorealistic Copper
 F12 — Metal — Pipe
+
 F13 — Metal — RK Brushed Metal
 F14 — Metal — RK Dented Metal
 F15 — Metal — RK Dirty Metal
@@ -202,12 +206,14 @@ G3 — Organic — Cardboard (Sanctus)
 G4 — Organic — Cookie
 G5 — Organic — Laminate
 G6 — Organic — Natural Clay
+
 G7 — Organic — Realistic Snow
 G8 — Organic — RK Clay
 G9 — Organic — RK Coal
 G10 — Organic — RK Coral
 G11 — Organic — RK Ice
 G12 — Organic — RK Skin
+
 G13 — Organic — Sand
 G14 — Organic — Sand Particle
 G15 — Organic — Snow
