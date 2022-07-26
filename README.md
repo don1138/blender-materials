@@ -16,10 +16,11 @@
 Alternately, **Adamantite Machine** has done the same thing with their [Blender Asset Pack](https://adamantitemachine.com/b3dmatpack/). Great minds… amirite?
 
 ## [Tutorials](https://github.com/don1138/blender-materials/tree/main/Tutorials)
-**129 Materials / 30 Node Groups / 8 Worlds** - Collected Blender materials, nodes, and worlds I've made from tips and tutorials.
+**164 Materials / 43 Node Groups / 9 Worlds** - Collected Blender materials, nodes, and worlds I've made from tips and tutorials.
 
 <br><br>
 <p align="center">
+  <img align="center" src="https://img.shields.io/badge/github/release-date/don1138/blender-materials" alt="Repo Created">
   <img align="center" src="https://badges.pufler.dev/created/don1138/blender-materials?style=for-the-badge&colorA=222&colorB=48684b" alt="Repo Created">
   <img align="center" src="https://badges.pufler.dev/updated/don1138/blender-materials?style=for-the-badge&colorA=222&colorB=48684b" alt="Repo Updated">
 </p>
