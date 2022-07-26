@@ -11,29 +11,47 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [Procedural Asphalt]()
 * [Procedural Bricks](https://www.instagram.com/reel/CZQ_7CBr0Hf/)
 * [Procedural Painted Wall]()
+* [RK Asphalt](https://www.youtube.com/watch?v=Eofg9SBcdBY)
 
 ### Effects
 
 * [Anti-Seam]()
 * [Anti-Seam Node]()
 * [DC Rust](https://www.youtube.com/watch?v=WrrTsCQ6AD4)
+* [Diverse Detail]()
+* [Fascinating Emission](https://www.youtube.com/watch?v=jUt853tS5o0)
+* [Faux Displacement Hack](https://twitter.com/Un1cornHuntrSam/status/1478635714849869824)
 * [Holographic Shader](https://www.youtube.com/watch?v=0Kpx21jcte0)
+* [Layered Abstract Material](https://www.youtube.com/watch?v=S--PwlmEhgM)
 * [Material Chunky](https://www.youtube.com/watch?v=QLgsUih74UU)
 * [Material Greebles](https://www.youtube.com/watch?v=QLgsUih74UU)
 * [Noisy Voronoi Bump]()
 * [Procedural Scratches](https://www.youtube.com/watch?v=cnjtFfz5OLg)
+* [SB Scratches](https://www.youtube.com/watch?v=i8_YE78A3WI)
+* [Simple Flame](https://twitter.com/cmzw_/status/1540221309585457154?cxt=HHwWhICgldzH-98qAAAA)
+* [Studio Floor](https://www.youtube.com/watch?v=KEvFzSWdHys)
 * [Water Puddles]()
 * [Wet Surface]()
 
 ### Glass
 
 * [Pidgy Smart Glass]()
+* [Refraction Glass]()
+* [SB Window Smudges](https://www.youtube.com/watch?v=_24cILbMvHU)
+* [Transparent Polypropylene](https://blenderartists.org/t/transparent-polypropylene-shader/682497/12)
+* [Transparent Polypropylene Alt](https://blenderartists.org/t/transparent-polypropylene-shader/682497/12)
 
 ### Graphic
 
 * [DC Eevee Halftone Shader](https://www.youtube.com/watch?v=dRP1DqShceM)
 * [Stripes]()
 * [Toon Shader](https://www.youtube.com/watch?v=CQqONwef83s)
+* [Truchet](https://twitter.com/cmzw_/status/1527987757254967297?s=20&t=hPITg2EM9Hb9ocBpJV6AwA)
+
+### Liquid
+
+* [FP Water](https://www.youtube.com/watch?v=j3-Ezn47xz0)
+* [Wine]()
 
 ### Metal
 
@@ -46,18 +64,26 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [artist.B Hammered Steel](https://www.youtube.com/watch?v=o0zm9ocmIaI)
 * [artist.B Sandblasted Iron](https://www.youtube.com/watch?v=ofeFJFCq1OE)
 * [artist.B Sandblasted Steel](https://www.youtube.com/watch?v=o0zm9ocmIaI)
-* [Photorealistic Copper](https://www.youtube.com/watch?v=KqM0LTO70RE)
 * [Metal Foil](https://www.youtube.com/watch?v=MEkKfXwpZcs)
+* [Photorealistic Copper](https://www.youtube.com/watch?v=KqM0LTO70RE)
 * [Pipe](https://www.youtube.com/watch?v=m2KPMqDI7bg&t=77s)
+* [RK Brushed Metal](https://www.youtube.com/watch?v=bCgPjfSSN50)
+* [RK Dented Metal](https://www.youtube.com/watch?v=YD2OvkAN15M)
 * [RK Dirty Metal](https://www.youtube.com/watch?v=uqfcV56SHMc)
 
 ### Organic
 
-* [Cardboard (Derek Elliott)](https://www.youtube.com/watch?v=O1em_ijMvUk&t=10s)
+* [Base Clay]()
+* [Cardboard (Derek Elliott)](https://www.youtube.com/watch?v=O1em_ijMvUk)
 * [Cardboard (Sanctus)](https://www.youtube.com/watch?v=9C6zl0kdVzw)
 * [Cookie](https://www.youtube.com/watch?v=VNluiXnmi-8)
+* [Laminate](https://www.artstation.com/artwork/PeVNV8)
+* [Natural Clay](https://www.youtube.com/watch?v=3KOF7ZnkWsQ)
 * [Realistic Snow](https://www.youtube.com/watch?v=fcDFntILn0M&t=15s)
 * [RK Clay](https://www.youtube.com/watch?v=eYw5sbF5bhU)
+* [RK Coal](https://www.youtube.com/watch?v=fsVgkJeH7Yo)
+* [RK Coral](https://www.youtube.com/watch?v=gZQ3BjXDjSg)
+* [RK Ice](https://www.youtube.com/watch?v=p7O2Ji905dQ)
 * [RK Skin](https://www.youtube.com/watch?v=iDXGPsrO0_M)
 * [Sand](https://www.youtube.com/watch?v=MjM16FUMOKM)
 * [Sand Particle](https://www.youtube.com/watch?v=MjM16FUMOKM)
@@ -68,5 +94,8 @@ I learned a lot from following them. If you're new to procedural materials, you 
 ### Stone
 
 * [RK Chunky Rock](https://www.youtube.com/watch?v=xWT_7jUTW4Q)
-* [RK Coal](https://www.youtube.com/watch?v=fsVgkJeH7Yo)
 * [RK Smooth Concrete](https://www.youtube.com/watch?v=uCyUt1Jaufk)
+
+### Volume
+
+* [Object-Centered Fog](https://twitter.com/brentpatterson/status/1544855232773083138)
