@@ -8,35 +8,35 @@ I learned a lot from following them. If you're new to procedural materials, you 
 
 ### Architectural
 
-* [Procedural Asphalt]()
+* Procedural Asphalt
 * [Procedural Bricks](https://www.instagram.com/reel/CZQ_7CBr0Hf/)
-* [Procedural Painted Wall]()
+* Procedural Painted Wall
 * [RK Asphalt](https://www.youtube.com/watch?v=Eofg9SBcdBY)
 
 ### Effects
 
-* [Anti-Seam]()
-* [Anti-Seam Node]()
+* Anti-Seam
+* Anti-Seam Node
 * [DC Rust](https://www.youtube.com/watch?v=WrrTsCQ6AD4)
-* [Diverse Detail]()
+* Diverse Detail
 * [Fascinating Emission](https://www.youtube.com/watch?v=jUt853tS5o0)
 * [Faux Displacement Hack](https://twitter.com/Un1cornHuntrSam/status/1478635714849869824)
 * [Holographic Shader](https://www.youtube.com/watch?v=0Kpx21jcte0)
 * [Layered Abstract Material](https://www.youtube.com/watch?v=S--PwlmEhgM)
 * [Material Chunky](https://www.youtube.com/watch?v=QLgsUih74UU)
 * [Material Greebles](https://www.youtube.com/watch?v=QLgsUih74UU)
-* [Noisy Voronoi Bump]()
+* Noisy Voronoi Bump
 * [Procedural Scratches](https://www.youtube.com/watch?v=cnjtFfz5OLg)
 * [SB Scratches](https://www.youtube.com/watch?v=i8_YE78A3WI)
 * [Simple Flame](https://twitter.com/cmzw_/status/1540221309585457154?cxt=HHwWhICgldzH-98qAAAA)
 * [Studio Floor](https://www.youtube.com/watch?v=KEvFzSWdHys)
-* [Water Puddles]()
-* [Wet Surface]()
+* Water Puddles
+* Wet Surface
 
 ### Glass
 
-* [Pidgy Smart Glass]()
-* [Refraction Glass]()
+* Pidgy Smart Glass
+* Refraction Glass
 * [SB Window Smudges](https://www.youtube.com/watch?v=_24cILbMvHU)
 * [Transparent Polypropylene](https://blenderartists.org/t/transparent-polypropylene-shader/682497/12)
 * [Transparent Polypropylene Alt](https://blenderartists.org/t/transparent-polypropylene-shader/682497/12)
@@ -44,14 +44,14 @@ I learned a lot from following them. If you're new to procedural materials, you 
 ### Graphic
 
 * [DC Eevee Halftone Shader](https://www.youtube.com/watch?v=dRP1DqShceM)
-* [Stripes]()
+* Stripes
 * [Toon Shader](https://www.youtube.com/watch?v=CQqONwef83s)
 * [Truchet](https://twitter.com/cmzw_/status/1527987757254967297?s=20&t=hPITg2EM9Hb9ocBpJV6AwA)
 
 ### Liquid
 
 * [FP Water](https://www.youtube.com/watch?v=j3-Ezn47xz0)
-* [Wine]()
+* Wine
 
 ### Metal
 
@@ -73,7 +73,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 
 ### Organic
 
-* [Base Clay]()
+* Base Clay
 * [Cardboard (Derek Elliott)](https://www.youtube.com/watch?v=O1em_ijMvUk)
 * [Cardboard (Sanctus)](https://www.youtube.com/watch?v=9C6zl0kdVzw)
 * [Cookie](https://www.youtube.com/watch?v=VNluiXnmi-8)
@@ -87,7 +87,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [RK Skin](https://www.youtube.com/watch?v=iDXGPsrO0_M)
 * [Sand](https://www.youtube.com/watch?v=MjM16FUMOKM)
 * [Sand Particle](https://www.youtube.com/watch?v=MjM16FUMOKM)
-* [Snow]()
+* Snow
 * [Sponge Foam](https://www.youtube.com/watch?v=m2KPMqDI7bg&t=77s)
 * [Wood Plank](https://www.youtube.com/watch?v=CHxelgYdBaI&t=46s)
 
