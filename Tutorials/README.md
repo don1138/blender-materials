@@ -307,7 +307,7 @@ World Sci-Fi
 World Starfield
 World Sunset
 ```
-![Nodes Thumbnails](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-b.jpg)
+![Nodes Thumbnails](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/nodes-effects.jpg)
 
 ```
 TUTORIALS > EFFECTS (10)
