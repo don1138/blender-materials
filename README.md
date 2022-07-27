@@ -20,7 +20,9 @@ Alternately, **Adamantite Machine** has done the same thing with their [Blender 
 
 <br><br>
 <p align="center">
-  <img align="center" src="https://img.shields.io/github/last-commit/don1138/blender-materials" alt="Repo Updated">
+  <img alt="GitHub latest commit" src="https://img.shields.io/github/last-commit/don1138/blender-materials">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/don1138/blender-materials">
+  <img alt="Github all releases" src="https://img.shields.io/github/downloads/don1138/blender-materials/total.svg"><br>
+  <img src="https://repobeats.axiom.co/api/embed/6dfa43ed9f8d84a8d280e01482bcec74e5f515af.svg" alt="Repobeats analytics image">
 </p>
 
-![Alt](https://repobeats.axiom.co/api/embed/6dfa43ed9f8d84a8d280e01482bcec74e5f515af.svg "Repobeats analytics image")
