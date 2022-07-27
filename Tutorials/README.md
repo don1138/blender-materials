@@ -230,7 +230,7 @@ J1 – Volume – Object-Centered Fog
 
 ```
 
-# Nodes (11 materials, 43 Nodes, 9 Worlds)
+# Nodes (11 materials, 45 Nodes, 9 Worlds)
 
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
@@ -267,7 +267,6 @@ NODES > EFFECTS
 
 Blur Group (White Noise)
 Blur Node (Noise)
-Color Shift
 Corrosion v1
 Corrosion v2
 Corrosion v3
@@ -275,7 +274,9 @@ Corrosion v4
 Edge Mask
 Eight Columns
 Exposed Color Ramp
+Grunge Edge Drip
 HSV Blend
+HSV Color Shift
 Image Nodes
 Musgrave Mix
 Rust Pattern
@@ -284,6 +285,7 @@ Specular
 Split X
 Stencil Mask
 Subsurface Scattering
+Texturizer
 Tile Breaker
 
 NODE > LIGHT COLORS
