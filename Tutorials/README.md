@@ -11,7 +11,7 @@ Collected Blender materials, nodes, and worlds I've made from tips and tutorials
 
 ```
 TUTORIALS 2021
-85 MATERIALS
+85 ASSETS
 ==============
 
 A1 - Architectural - RK Tiles
@@ -236,7 +236,7 @@ J1 - Volume - Object-Centered Fog
 
 ```
 NODES
-64 Assets
+64 ASSETS
 ========
 
 NODES > COLORS (11)
