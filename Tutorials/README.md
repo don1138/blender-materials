@@ -230,7 +230,7 @@ J1 - Volume - Object-Centered Fog
 
 ```
 
-# Nodes (44 Nodes, 11 Materials, 9 Worlds)
+# Nodes (11 Materials, 44 Nodes, 9 Worlds)
 
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
