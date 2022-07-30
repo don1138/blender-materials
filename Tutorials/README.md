@@ -212,6 +212,7 @@ G8 - Organic - RK Clay
 G9 - Organic - RK Coal
 G10 - Organic - RK Coral
 G11 - Organic - RK Ice
+    - Organic - RK Potato
 G12 - Organic - RK Skin
 
 G13 - Organic - Sand
@@ -226,7 +227,7 @@ G17 - Organic - Wood Plank
 H1 - Stone - RK Chunky Rock
 H2 - Stone - RK Smooth Concrete
 
-J1 - Volume - Object-Centered Fog
+   - Volume - Object-Centered Fog
 
 ```
 
