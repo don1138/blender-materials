@@ -4,7 +4,7 @@ Here's a list of the source tutorials for these mats, at least the ones I've bee
 
 I learned a lot from following them. If you're new to procedural materials, you should do the same.
 
-## Tutorials 2022 (68 Materials)
+## Tutorials 2022 (70 Materials)
 
 ### Architectural (4)
 
@@ -71,7 +71,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [RK Dented Metal](https://www.youtube.com/watch?v=YD2OvkAN15M)
 * [RK Dirty Metal](https://www.youtube.com/watch?v=uqfcV56SHMc)
 
-### Organic (18)
+### Organic (19)
 
 * Base Clay
 * [Cardboard (Derek Elliott)](https://www.youtube.com/watch?v=O1em_ijMvUk)
@@ -86,14 +86,16 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * [RK Ice](https://www.youtube.com/watch?v=p7O2Ji905dQ)
 * [RK Potato](https://www.youtube.com/watch?v=FCXvTmNNUeU)
 * [RK Skin](https://www.youtube.com/watch?v=iDXGPsrO0_M)
+* [RK Tree Bark](https://www.youtube.com/watch?v=6ECeHoATa74)
 * [Sand](https://www.youtube.com/watch?v=MjM16FUMOKM)
 * [Sand Particle](https://www.youtube.com/watch?v=MjM16FUMOKM)
 * Snow
 * [Sponge Foam](https://www.youtube.com/watch?v=m2KPMqDI7bg&t=77s)
 * [Wood Plank](https://www.youtube.com/watch?v=CHxelgYdBaI&t=46s)
 
-### Stone (2)
+### Stone (3)
 
+* [RK Cave Wall](https://www.youtube.com/watch?v=Bs2El4JOvcc)
 * [RK Chunky Rock](https://www.youtube.com/watch?v=xWT_7jUTW4Q)
 * [RK Smooth Concrete](https://www.youtube.com/watch?v=uCyUt1Jaufk)
 
