@@ -117,7 +117,7 @@ M7 - Stone - Rock E
 N1 - Stone - Ultimate Concrete 0.2
 
 ```
-# Tutorials 2022 (67 Materials)
+# Tutorials 2022 (69 Materials)
 
 * **Tutorials-2022.blend** includes Asset Browser swatches (Blender 3.0+)
 * **Sources-2022.md** is a list of links to the tutorials
@@ -214,6 +214,7 @@ G10 - Organic - RK Coral
 G11 - Organic - RK Ice
     - Organic - RK Potato
 G12 - Organic - RK Skin
+    - Organic - RK Tree Bark
 
 G13 - Organic - Sand
 G14 - Organic - Sand Particle
@@ -224,6 +225,7 @@ G17 - Organic - Wood Plank
 ![Tutorials Thumbnails 2022 H](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-h.jpg)
 
 ```
+   - Stone - RK Cave Wall
 H1 - Stone - RK Chunky Rock
 H2 - Stone - RK Smooth Concrete
 
@@ -231,7 +233,7 @@ H2 - Stone - RK Smooth Concrete
 
 ```
 
-# Nodes (11 Materials, 44 Nodes, 9 Worlds)
+# Nodes (11 Materials, 48 Nodes, 9 Worlds)
 
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
@@ -264,16 +266,19 @@ Lens Distortion & Glare
 RGB Split
 Transparent Shadow Catcher
 
-NODES > EFFECTS (22)
+NODES > EFFECTS (26)
 
+Better Edge Mask
 Blur Group (White Noise)
 Blur Node (Noise)
 Corrosion v1
 Corrosion v2
 Corrosion v3
 Corrosion v4
+Edge Detect
 Edge Mask
 Eight Columns
+Entagma Better Tiling
 Exposed Color Ramp
 Grunge Edge Drip
 HSV Blend
@@ -285,6 +290,7 @@ Rusty Metal
 Specular
 Split X
 Stencil Mask
+Street Level Grunge
 Subsurface Scattering
 Texturizer
 Tile Breaker
