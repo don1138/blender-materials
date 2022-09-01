@@ -6,11 +6,12 @@
 
 VERSION 1
 
-0d305cc6-b169-429d-bd73-ede6d941f79e:Nodes:Nodes
-6aafb541-3c75-4580-be43-fb10e5de4966:Nodes/Colors:Nodes-Colors
-aa6dc6de-d161-43b0-9009-ab8eaf07e435:Nodes/Compositor:Nodes-Compositor
+bcbbe3b4-5d60-4a55-9c3b-52c9d0d7c882:Nodes:Nodes
+167e6da0-0a0c-4be3-9908-d7f766e1f4d5:Nodes/Camera:Nodes-Camera
+0d305cc6-b169-429d-bd73-ede6d941f79e:Nodes/Colors:Nodes-Colors
+986bfc4d-88a9-40a6-a75e-bbf5d87d6002:Nodes/Compositor:Nodes-Compositor
 e09e50f3-9ce6-4ab4-91b7-f2ced122f178:Nodes/Effects:Nodes-Effects
-ba9d552d-b094-4cb6-850f-b0f69b218a57:Nodes/Light Colors:Nodes-Light Colors
+82610c0a-761e-43c3-aac5-19012e638096:Nodes/Lights:Nodes-Lights
 8f5bd57b-0dff-4329-a028-36e01a984792:Nodes/Worlds:Nodes-Worlds
 bd956717-a1f0-43e2-90b6-fbe20453e208:Tutorials:Tutorials
 a9522fa0-6e02-41c0-93ed-07988d0a06f1:Tutorials/Architectural:Tutorials-Architectural
