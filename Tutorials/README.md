@@ -233,102 +233,122 @@ H2 - Stone - RK Smooth Concrete
 
 ```
 
-# Nodes (11 Materials, 48 Nodes, 9 Worlds)
+# Nodes (1 Collection, 13 Materials, 56 Node Groups, 15 Worlds)
 
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
 ```
 NODES
-64 ASSETS
+85 ASSETS
 ========
+
+NODES > Camera (1 Collection)
+
+CLL Camera Rig
 
 NODES > COLORS (11)
 
-RAL Black & White Hues
-RAL Blue Hues
-RAL Brown Hues
-RAL Green Hues
-RAL Grey Hues
-RAL Orange Hues
-RAL Red Hues
-RAL Violet Hues
-RAL Yellow Hues
-Skin - Fitzpatrick Scale
-Skin Tones
+CLR RAL Black & White Hues
+CLR RAL Blue Hues
+CLR RAL Brown Hues
+CLR RAL Green Hues
+CLR RAL Grey Hues
+CLR RAL Orange Hues
+CLR RAL Red Hues
+CLR RAL Violet Hues
+CLR RAL Yellow Hues
+CLR Skin - Fitzpatrick Scale
+CLR Skin Tones
 
 NODES > COMPOSITOR (7)
 
-Denoise Basic
-Denoise MultiPass
-Denoise MultiPass Transmission
-Denoise Shadow Catcher
-Lens Distortion & Glare
-RGB Split
-Transparent Shadow Catcher
+CMP Denoise Basic
+CMP Denoise MultiPass
+CMP Denoise MultiPass Transmission
+CMP Denoise Shadow Catcher
+CMP Lens Distortion & Glare
+CMP RGB Split
+CMP Transparent Shadow Catcher
 
-NODES > EFFECTS (26)
+NODES > EFFECTS (29)
 
-Better Edge Mask
-Blur Group (White Noise)
-Blur Node (Noise)
-Corrosion v1
-Corrosion v2
-Corrosion v3
-Corrosion v4
-Edge Detect
-Edge Mask
-Eight Columns
-Entagma Better Tiling
-Exposed Color Ramp
-Grunge Edge Drip
-HSV Blend
-HSV Color Shift
-Image Nodes
-Musgrave Mix
-Rust Pattern
-Rusty Metal
-Specular
-Split X
-Stencil Mask
-Street Level Grunge
-Subsurface Scattering
-Texturizer
-Tile Breaker
+% Degrees to Radians
+% Phi
+N Better Edge Mask
+N Blur Group (White Noise)
+N Blur Node (Noise)
+N Corrosion v1
+N Corrosion v2
+N Corrosion v3
+N Corrosion v4
+N Edge Detect
+N Edge Mask
+N Eight Columns
+N Energy Conservation
+N Entagma Better Tiling
+N Exposed Color Ramp
+N Grunge Edge Drip
+N HSV Blend
+N HSV Color Shift
+N Image Nodes
+N Musgrave Mix
+N Rust Pattern
+N Rusty Metal
+N Specular
+N Split X
+N Stencil Mask
+N Street Level Grunge
+N Subsurface Scattering
+N Texturizer
+N Tile Breaker
 
-NODE > LIGHT COLORS (4)
+NODES > LIGHTS (8)
 
-Blackbody Artificial Light
-Blackbody Incadescent/Fluorescent Light
-Blackbody Natural Light
-RGB Natural Light
+LC Blackbody - Artificial Light
+LC Blackbody - Incadescent/Fluorescent Light
+LC Blackbody - Natural Light
+LC RGB - Natural Light
+Lumens Converter
+Lumens Converter Area
+Lumens Converter IES
+Lumens Converter Spot
 
-WORLDS (9)
+NODES > WORLDS (1 Node Group, 15 Worlds)
 
-World Chrome
-World Gradient
-World Grunge Vignette
-World Hazy Underwater
-World Moon
-World Noon
-World Sci-Fi
-World Starfield
-World Sunset
+W Vignette Background
+World - Chrome
+World - Generic Daylight
+World - Neutral HDRI
+World - Real Daylight
+World - Real Moonlight
+World - Sky Moon
+World - Sky Noon
+World - Sky Sci-Fi
+World - Sky Sunset
+World - Starfield
+World - Vignette Blue Gradient
+World - Vignette Creme
+World - Vignette Grey
+World - Vignette Grunge
+World - Vol Hazy Underwater
 ```
 ![Nodes Thumbnails](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/nodes-effects.jpg)
 
 ```
-TUTORIALS > EFFECTS (10)
+TUTORIALS > EFFECTS (12)
 
-AO Floor
-AO Object
-AO Rust
-Corrosion v0
-Corrosion v1
-Corrosion v2
-Corrosion v3
-Corrosion v3a
-Corrosion v4
-Corrosion v5
+Backfacing
+Backfacing Emission
+FX AO Floor
+FX AO Object
+FX AO Rust
+FX Corrosion v0
+FX Corrosion v1
+FX Corrosion v2
+FX Corrosion v3
+FX Corrosion v3a
+FX Corrosion v4
+FX Corrosion v5
 
 TUTORIALS > LIQUID (1)
 
