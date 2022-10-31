@@ -1,0 +1,14 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+b4c5fa28-beff-4a4f-9388-3bf49c253a04:Glass Shaders:Glass Shaders
+5d48f6f0-95ae-4b36-b445-cdae5b0513ee:Glass Shaders/Architectural:Glass Shaders-Architectural
+bad9a764-c308-46f4-b90a-62910fb170e1:Glass Shaders/Automotive:Glass Shaders-Automotive
+ce339085-d736-4304-ab1c-54584f75f99e:Glass Shaders/Glass:Glass Shaders-Glass
+74ff74b2-db40-4638-9f0e-5ba25ad51660:Glass Shaders/Glassmorphism:Glass Shaders-Glassmorphism
+c3ec1f39-d566-43ac-b791-617e9a9e092f:Glass Shaders/Other:Glass Shaders-Other
