@@ -7,10 +7,12 @@
 VERSION 1
 
 bcbbe3b4-5d60-4a55-9c3b-52c9d0d7c882:Nodes:Nodes
+56b65a4c-7909-4e65-9399-aa7242b11b8c:Nodes/Calculators:Nodes-Calculators
 167e6da0-0a0c-4be3-9908-d7f766e1f4d5:Nodes/Camera:Nodes-Camera
 0d305cc6-b169-429d-bd73-ede6d941f79e:Nodes/Colors:Nodes-Colors
 986bfc4d-88a9-40a6-a75e-bbf5d87d6002:Nodes/Compositor:Nodes-Compositor
 e09e50f3-9ce6-4ab4-91b7-f2ced122f178:Nodes/Effects:Nodes-Effects
+054be85e-8432-46fe-8d59-7f03e26c59fd:Nodes/Geometry Nodes:Nodes-Geometry Nodes
 82610c0a-761e-43c3-aac5-19012e638096:Nodes/Lights:Nodes-Lights
 8f5bd57b-0dff-4329-a028-36e01a984792:Nodes/Worlds:Nodes-Worlds
 bd956717-a1f0-43e2-90b6-fbe20453e208:Tutorials:Tutorials
