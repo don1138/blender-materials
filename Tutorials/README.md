@@ -233,18 +233,128 @@ H2 - Stone - RK Smooth Concrete
 
 ```
 
-# Nodes (1 Collection, 13 Materials, 56 Node Groups, 15 Worlds)
+
+Tutorials 2022 Q3 (63 Materials, 3 Node Groups, 3 Lights, 1 World)
+==========
+
+* **Tutorials-2022-Q3.blend** includes Asset Browser swatches (Blender 3.0+)
+
+```
+TUTORIALS 2022 Q3
+70 Assets
+=================
+
+MATERIALS (63)
+
+Architectural - Brick
+
+Effects - CF Edge Wear
+Effects - Dust (iMeshh)
+Effects - Iced Tips
+Effects - Parallax Plane
+Effects - Professional Material
+Effects - Random Col-M-Spec-Rou-IOR
+Effects - Samuel Sullins Concrete
+Effects - Samuel Sullins Grid
+Effects - Samuel Sullins Swirl
+Effects - SS Abstract Landscape
+Effects - Voronoi Material
+Effects - Wonderdog Emissive
+
+Fabric - artist.b Cloth
+Fabric - artist.b Cotton Textile Fabric
+Fabric - artist.b Iridescent Fabric
+Fabric - artist.b Metallic Fabric
+Fabric - artist.b Silk
+Fabric - RK Fabric
+
+Glass - Best Realistic Glass
+
+Graphic - 3D GRID
+Graphic - CM Endless Tunnel Alt
+Graphic - CM Endless Tunnel Image
+Graphic - CM Endless Tunnel Voronoi
+Graphic - CM Endless Tunnel Wave
+Graphic - Dot Grill Mesh
+Graphic - Procedural Abstract M1
+
+Lights - IES Mesh Light
+
+Liquid - Ocean
+Liquid - Realistic Water
+
+Manufactured - artist.B Clear Plastic
+Manufactured - artist.B Plastic
+Manufactured - Black Matte
+Manufactured - Plastic PC Polycarbonate
+Manufactured - Plastic PC Polycarbonate Clear
+Manufactured - Plastic PET (Polyester)
+Manufactured - Plastic PET (Polyester) Clear
+Manufactured - Plastic PMMA (Acrylic)
+Manufactured - Plastic PMMA (Acrylic) Clear
+Manufactured - Plastic PP Polypyrene
+Manufactured - Plastic PP Polypyrene Clear
+Manufactured - Plastic PVC (Vinyl)
+Manufactured - Plastic PVC (Vinyl) Clear
+Manufactured - Styrofoam
+
+Metal - Anisotropic Brushed Metal
+Metal - CGP Rusted Copper
+Metal - CGP Rusted Metal
+Metal - Chrome (Kaustik)
+Metal - RK Rough Metal
+Metal - SS Brushed Metal
+Metal - SS Circular Brushed Metal
+Metal - SS Hammered Metal
+Metal - SS Rusted Metal
+
+Organic - Cherry Leaf
+Organic - Earth
+Organic - Oscurart Skin
+Organic - RK Atmosphere
+Organic - Trunk
+Organic - Wood
+Organic - Wood Core
+
+Stone - Sand
+Stone - Torquedaras Ceramic
+
+NODE GROUPS (3)
+
+Parallax Plane
+Random Value
+Random Value Stepped
+
+OBJECTS (3)
+
+IES Area Light
+IES Area Light Rotate
+IES Mesh Light
+
+WORLDS (1)
+
+Worlds - Infinite Floor (World)
+```
+
+# Nodes (1 Collection, 13 Materials, 63 Node Groups, 16 Worlds)
 
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
 ```
 NODES
-85 ASSETS
+93 ASSETS
 ========
 
 NODES > Camera (1 Collection)
 
 CLL Camera Rig
+
+NODES > CALCULATORS (4)
+
+% Degrees to Radians
+% Phi
+% Random Value
+% Random Value Stepped
 
 NODES > COLORS (11)
 
@@ -260,8 +370,9 @@ CLR RAL Yellow Hues
 CLR Skin - Fitzpatrick Scale
 CLR Skin Tones
 
-NODES > COMPOSITOR (7)
+NODES > COMPOSITOR (8)
 
+Benianus 3D Compositor Setup
 CMP Denoise Basic
 CMP Denoise MultiPass
 CMP Denoise MultiPass Transmission
@@ -270,10 +381,8 @@ CMP Lens Distortion & Glare
 CMP RGB Split
 CMP Transparent Shadow Catcher
 
-NODES > EFFECTS (29)
+NODES > EFFECTS (31)
 
-% Degrees to Radians
-% Phi
 N Better Edge Mask
 N Blur Group (White Noise)
 N Blur Node (Noise)
@@ -287,6 +396,7 @@ N Eight Columns
 N Energy Conservation
 N Entagma Better Tiling
 N Exposed Color Ramp
+N Fader
 N Grunge Edge Drip
 N HSV Blend
 N HSV Color Shift
@@ -301,6 +411,13 @@ N Street Level Grunge
 N Subsurface Scattering
 N Texturizer
 N Tile Breaker
+N UV Bricks
+N UV Grid
+N Value Mix
+
+NODES > GEOMETRY NODES (1)
+
+Translate Bounding Box
 
 NODES > LIGHTS (8)
 
