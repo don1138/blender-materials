@@ -7,25 +7,28 @@
 VERSION 1
 
 bcbbe3b4-5d60-4a55-9c3b-52c9d0d7c882:Nodes:Nodes
-56b65a4c-7909-4e65-9399-aa7242b11b8c:Nodes/Calculators:Nodes-Calculators
 167e6da0-0a0c-4be3-9908-d7f766e1f4d5:Nodes/Camera:Nodes-Camera
 0d305cc6-b169-429d-bd73-ede6d941f79e:Nodes/Colors:Nodes-Colors
 986bfc4d-88a9-40a6-a75e-bbf5d87d6002:Nodes/Compositor:Nodes-Compositor
-e09e50f3-9ce6-4ab4-91b7-f2ced122f178:Nodes/Effects:Nodes-Effects
-054be85e-8432-46fe-8d59-7f03e26c59fd:Nodes/Geometry Nodes:Nodes-Geometry Nodes
+e09e50f3-9ce6-4ab4-91b7-f2ced122f178:Nodes/Extend Shader:Nodes-Extend Shader
+60bc0675-6bdc-4f37-b315-67e7d55a1411:Nodes/Geometry Nodes:Nodes-Geometry Nodes
 82610c0a-761e-43c3-aac5-19012e638096:Nodes/Lights:Nodes-Lights
+21d9abad-46c5-4ddb-83f0-db4f8f1a707e:Nodes/Masks:Nodes-Masks
+b2d3e469-fb40-41d3-af09-e45099c57836:Nodes/Rust Corrosion:Nodes-Rust Corrosion
+efbfe45a-aecf-4917-8282-882f4c2993dd:Nodes/Switch Mix:Nodes-Switch Mix
+355f3eb3-c92e-426b-8eda-0449af3eb7cd:Nodes/Tiling:Nodes-Tiling
+49c35f7e-c846-49d1-9211-a6eebea1adbe:Nodes/Values:Nodes-Values
 8f5bd57b-0dff-4329-a028-36e01a984792:Nodes/Worlds:Nodes-Worlds
-bd956717-a1f0-43e2-90b6-fbe20453e208:Tutorials:Tutorials
+5ede350f-6a20-47dc-8a76-5f715917d44e:Tutorials:Tutorials
 a9522fa0-6e02-41c0-93ed-07988d0a06f1:Tutorials/Architectural:Tutorials-Architectural
 d34f1a05-79e9-4e65-a4dc-fbfaf7259f95:Tutorials/Effects:Tutorials-Effects
-e7372fe2-88a7-4097-adf1-3e5225548ffd:Tutorials/Fabric:Tutorials-Fabric
+720899d7-7a96-4997-872f-708d07fa30ac:Tutorials/Fabric:Tutorials-Fabric
 58b78a34-5f03-48c6-bf92-774068820594:Tutorials/Glass:Tutorials-Glass
 d8b98673-b3f4-4177-b078-b05798ab63e2:Tutorials/Graphic:Tutorials-Graphic
-ea450ab2-579f-4d68-a5c4-e885a535ee7f:Tutorials/Lights:Tutorials-Lights
-93ae6c5b-e9c8-4e07-a2dc-3661d159a11c:Tutorials/Liquid:Tutorials-Liquid
-b67e17ce-c31f-4309-b937-79b98deefbb0:Tutorials/Liquid:Tutorials-Liquid
-b5efd013-b96a-4cbe-adf7-9a54d668ab91:Tutorials/Manufactured:Tutorials-Manufactured
+9455a671-8ca6-4f4d-8767-46930a7c0e7b:Tutorials/Lights:Tutorials-Lights
+c11d4d39-b426-4e5c-a816-aa6774bcecf3:Tutorials/Liquid:Tutorials-Liquid
+ca024eca-2b88-4e47-98fe-4f54741d9f6b:Tutorials/Manufactured:Tutorials-Manufactured
 f6e88261-2a77-49c1-befe-425218c889cc:Tutorials/Metal:Tutorials-Metal
 7574d88a-30eb-4901-87c0-dab903be2b10:Tutorials/Organic:Tutorials-Organic
 1c7249d0-f5ba-44f5-b798-a4e4e5a26d3b:Tutorials/Stone:Tutorials-Stone
-805e1ef4-3732-42b7-9154-c33a09daba1b:Tutorials/Volume:Tutorials-Volume
+76e4ab22-af3b-4c9a-b27f-160716ff72b1:Tutorials/Volume:Tutorials-Volume
