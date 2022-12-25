@@ -405,7 +405,7 @@ NODES > EXTEND SHADER (7)
 
 NODES > GEOMETRY NODES (1)
 
-<!-- GN Translate Bounding Box -->
+    GN Translate Bounding Box
 
 NODES > LIGHTS (8)
 
