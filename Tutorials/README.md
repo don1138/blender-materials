@@ -13,7 +13,7 @@ Collected Blender materials, nodes, and worlds I've made from tips and tutorials
 
 # <a id="tuts21"></a>Tutorials 2021 (85 Materials)
 * **Tutorials-2021.blend** includes Asset Browser swatches (Blender 3.0+)
-* **Sources-2021.md** is a list of links to the tutorials
+* [**Sources-2021.md**](https://github.com/don1138/blender-materials/blob/main/Tutorials/SOURCES-2021.md) is a list of links to the tutorials
 
 ![Tutorials Thumbnails A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/Tutorials-A.jpg)
 
@@ -132,7 +132,7 @@ N1 - Stone - Ultimate Concrete 0.2
 # <a id="tuts22"></a>Tutorials 2022 (70 Materials)
 
 * **Tutorials-2022.blend** includes Asset Browser swatches (Blender 3.0+)
-* **Sources-2022.md** is a list of links to the tutorials
+* [**Sources-2022.md**](https://github.com/don1138/blender-materials/blob/main/Tutorials/SOURCES-2022.md) is a list of links to the tutorials
 
 ![Tutorials Thumbnails 2022 A](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-a.jpg)
 
