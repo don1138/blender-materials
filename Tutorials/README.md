@@ -456,7 +456,7 @@ NODES > TILING (3)
     TN Make Pattern
     TN Tile Breaker
 
-NODES > CALCULATORS (4)
+NODES > VALUES (7)
 
     % Blur Group (White Noise)
     % Blur Node (Noise)
