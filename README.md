@@ -16,7 +16,7 @@
 Alternately, **Adamantite Machine** has done the same thing with their [Blender Asset Pack](https://adamantitemachine.com/b3dmatpack/). Great minds… amirite?
 
 ## [Tutorials](https://github.com/don1138/blender-materials/tree/main/Tutorials)
-**1 Collection / 231 Materials / 3 Lights / 66 Node Groups / 17 Worlds** - Collected Blender materials, node groups, objects and worlds I've made from tips and tutorials.
+**1 Collection / 231 Materials / 3 Lights / 74 Node Groups / 17 Worlds** - Collected Blender materials, node groups, objects and worlds I've made from tips and tutorials.
 
 <br><br>
 <p align="center">

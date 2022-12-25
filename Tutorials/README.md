@@ -2,8 +2,15 @@
 
 Collected Blender materials, nodes, and worlds I've made from tips and tutorials.
 
-# Tutorials 2021 (85 Materials)
+- [Tutorials-2021.blend](#tuts21) - 85 Materials
+- [Tutorials-2022.blend](#tuts22) - 70 Materials
+- [Tutorials-2022-Q3.blend](#tuts222) - 63 Materials, 3 Node Groups, 3 Lights, 1 World
+- [Nodes.blend](#nodes) -  1 Collection, 13 Materials, 71 Node Groups, 16 Worlds
 
+
+
+
+# <a id="tuts21"></a>Tutorials 2021 (85 Materials)
 * **Tutorials-2021.blend** includes Asset Browser swatches (Blender 3.0+)
 * **Sources-2021.md** is a list of links to the tutorials
 
@@ -115,9 +122,11 @@ M6 - Stone - Rock D
 M7 - Stone - Rock E
 
 N1 - Stone - Ultimate Concrete 0.2
-
 ```
-# Tutorials 2022 (70 Materials)
+
+
+
+# <a id="tuts22"></a>Tutorials 2022 (70 Materials)
 
 * **Tutorials-2022.blend** includes Asset Browser swatches (Blender 3.0+)
 * **Sources-2022.md** is a list of links to the tutorials
@@ -234,9 +243,8 @@ H2 - Stone - RK Smooth Concrete
 ```
 
 
-Tutorials 2022 Q3 (63 Materials, 3 Node Groups, 3 Lights, 1 World)
-==========
 
+# <a id="tuts222"></a>Tutorials 2022 Q3 (63 Materials, 3 Node Groups, 3 Lights, 1 World)
 * **Tutorials-2022-Q3.blend** includes Asset Browser swatches (Blender 3.0+)
 
 ```
@@ -246,228 +254,249 @@ TUTORIALS 2022 Q3
 
 MATERIALS (63)
 
-Architectural - Brick
+    Architectural - Brick
 
-Effects - CF Edge Wear
-Effects - Dust (iMeshh)
-Effects - Iced Tips
-Effects - Parallax Plane
-Effects - Professional Material
-Effects - Random Col-M-Spec-Rou-IOR
-Effects - Samuel Sullins Concrete
-Effects - Samuel Sullins Grid
-Effects - Samuel Sullins Swirl
-Effects - SS Abstract Landscape
-Effects - Voronoi Material
-Effects - Wonderdog Emissive
+    Effects - CF Edge Wear
+    Effects - Dust (iMeshh)
+    Effects - Iced Tips
+    Effects - Parallax Plane
+    Effects - Professional Material
+    Effects - Random Col-M-Spec-Rou-IOR
+    Effects - Samuel Sullins Concrete
+    Effects - Samuel Sullins Grid
+    Effects - Samuel Sullins Swirl
+    Effects - SS Abstract Landscape
+    Effects - Voronoi Material
+    Effects - Wonderdog Emissive
 
-Fabric - artist.b Cloth
-Fabric - artist.b Cotton Textile Fabric
-Fabric - artist.b Iridescent Fabric
-Fabric - artist.b Metallic Fabric
-Fabric - artist.b Silk
-Fabric - RK Fabric
+    Fabric - artist.b Cloth
+    Fabric - artist.b Cotton Textile Fabric
+    Fabric - artist.b Iridescent Fabric
+    Fabric - artist.b Metallic Fabric
+    Fabric - artist.b Silk
+    Fabric - RK Fabric
 
-Glass - Best Realistic Glass
+    Glass - Best Realistic Glass
 
-Graphic - 3D GRID
-Graphic - CM Endless Tunnel Alt
-Graphic - CM Endless Tunnel Image
-Graphic - CM Endless Tunnel Voronoi
-Graphic - CM Endless Tunnel Wave
-Graphic - Dot Grill Mesh
-Graphic - Procedural Abstract M1
+    Graphic - 3D GRID
+    Graphic - CM Endless Tunnel Alt
+    Graphic - CM Endless Tunnel Image
+    Graphic - CM Endless Tunnel Voronoi
+    Graphic - CM Endless Tunnel Wave
+    Graphic - Dot Grill Mesh
+    Graphic - Procedural Abstract M1
 
-Lights - IES Mesh Light
+    Lights - IES Mesh Light
 
-Liquid - Ocean
-Liquid - Realistic Water
+    Liquid - Ocean
+    Liquid - Realistic Water
 
-Manufactured - artist.B Clear Plastic
-Manufactured - artist.B Plastic
-Manufactured - Black Matte
-Manufactured - Plastic PC Polycarbonate
-Manufactured - Plastic PC Polycarbonate Clear
-Manufactured - Plastic PET (Polyester)
-Manufactured - Plastic PET (Polyester) Clear
-Manufactured - Plastic PMMA (Acrylic)
-Manufactured - Plastic PMMA (Acrylic) Clear
-Manufactured - Plastic PP Polypyrene
-Manufactured - Plastic PP Polypyrene Clear
-Manufactured - Plastic PVC (Vinyl)
-Manufactured - Plastic PVC (Vinyl) Clear
-Manufactured - Styrofoam
+    Manufactured - artist.B Clear Plastic
+    Manufactured - artist.B Plastic
+    Manufactured - Black Matte
+    Manufactured - Plastic PC Polycarbonate
+    Manufactured - Plastic PC Polycarbonate Clear
+    Manufactured - Plastic PET (Polyester)
+    Manufactured - Plastic PET (Polyester) Clear
+    Manufactured - Plastic PMMA (Acrylic)
+    Manufactured - Plastic PMMA (Acrylic) Clear
+    Manufactured - Plastic PP Polypyrene
+    Manufactured - Plastic PP Polypyrene Clear
+    Manufactured - Plastic PVC (Vinyl)
+    Manufactured - Plastic PVC (Vinyl) Clear
+    Manufactured - Styrofoam
 
-Metal - Anisotropic Brushed Metal
-Metal - CGP Rusted Copper
-Metal - CGP Rusted Metal
-Metal - Chrome (Kaustik)
-Metal - RK Rough Metal
-Metal - SS Brushed Metal
-Metal - SS Circular Brushed Metal
-Metal - SS Hammered Metal
-Metal - SS Rusted Metal
+    Metal - Anisotropic Brushed Metal
+    Metal - CGP Rusted Copper
+    Metal - CGP Rusted Metal
+    Metal - Chrome (Kaustik)
+    Metal - RK Rough Metal
+    Metal - SS Brushed Metal
+    Metal - SS Circular Brushed Metal
+    Metal - SS Hammered Metal
+    Metal - SS Rusted Metal
 
-Organic - Cherry Leaf
-Organic - Earth
-Organic - Oscurart Skin
-Organic - RK Atmosphere
-Organic - Trunk
-Organic - Wood
-Organic - Wood Core
+    Organic - Cherry Leaf
+    Organic - Earth
+    Organic - Oscurart Skin
+    Organic - RK Atmosphere
+    Organic - Trunk
+    Organic - Wood
+    Organic - Wood Core
 
-Stone - Sand
-Stone - Torquedaras Ceramic
+    Stone - Sand
+    Stone - Torquedaras Ceramic
 
 NODE GROUPS (3)
 
-Parallax Plane
-Random Value
-Random Value Stepped
+    Parallax Plane
+    Random Value
+    Random Value Stepped
 
 OBJECTS (3)
 
-IES Area Light
-IES Area Light Rotate
-IES Mesh Light
+    IES Area Light
+    IES Area Light Rotate
+    IES Mesh Light
 
 WORLDS (1)
 
-Worlds - Infinite Floor (World)
+    Worlds - Infinite Floor (World)
 ```
 
-# Nodes (1 Collection, 13 Materials, 63 Node Groups, 16 Worlds)
 
+
+# <a id="nodes"></a>Nodes (1 Collection, 13 Materials, 71 Node Groups, 16 Worlds)
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
 ```
 NODES
-93 ASSETS
+101 ASSETS
 ========
 
 NODES > Camera (1 Collection)
 
-CLL Camera Rig
+    CLL Camera Rig
 
-NODES > CALCULATORS (4)
+NODES > COLORS (14)
 
-% Degrees to Radians
-% Phi
-% Random Value
-% Random Value Stepped
-
-NODES > COLORS (11)
-
-CLR RAL Black & White Hues
-CLR RAL Blue Hues
-CLR RAL Brown Hues
-CLR RAL Green Hues
-CLR RAL Grey Hues
-CLR RAL Orange Hues
-CLR RAL Red Hues
-CLR RAL Violet Hues
-CLR RAL Yellow Hues
-CLR Skin - Fitzpatrick Scale
-CLR Skin Tones
+    CLN Exposed Color Ramp
+    CLN HSV Blend
+    CLN HSV Color Shift
+    CLR RAL Black & White Hues
+    CLR RAL Blue Hues
+    CLR RAL Brown Hues
+    CLR RAL Green Hues
+    CLR RAL Grey Hues
+    CLR RAL Orange Hues
+    CLR RAL Red Hues
+    CLR RAL Violet Hues
+    CLR RAL Yellow Hues
+    CLR Skin - Fitzpatrick Scale
+    CLR Skin Tones
 
 NODES > COMPOSITOR (8)
 
-Benianus 3D Compositor Setup
-CMP Denoise Basic
-CMP Denoise MultiPass
-CMP Denoise MultiPass Transmission
-CMP Denoise Shadow Catcher
-CMP Lens Distortion & Glare
-CMP RGB Split
-CMP Transparent Shadow Catcher
+    CMP 3D Compositor Setup (Benianus)
+    CMP Denoise Basic
+    CMP Denoise MultiPass
+    CMP Denoise MultiPass Transmission
+    CMP Denoise Shadow Catcher
+    CMP Lens Distortion & Glare
+    CMP RGB Split
+    CMP Transparent Shadow Catcher
 
-NODES > EFFECTS (31)
+NODES > EXTEND SHADER (7)
 
-N Better Edge Mask
-N Blur Group (White Noise)
-N Blur Node (Noise)
-N Corrosion v1
-N Corrosion v2
-N Corrosion v3
-N Corrosion v4
-N Edge Detect
-N Edge Mask
-N Eight Columns
-N Energy Conservation
-N Entagma Better Tiling
-N Exposed Color Ramp
-N Fader
-N Grunge Edge Drip
-N HSV Blend
-N HSV Color Shift
-N Image Nodes
-N Musgrave Mix
-N Rust Pattern
-N Rusty Metal
-N Specular
-N Split X
-N Stencil Mask
-N Street Level Grunge
-N Subsurface Scattering
-N Texturizer
-N Tile Breaker
-N UV Bricks
-N UV Grid
-N Value Mix
+    EN Canistrophy
+    EN Energy Conservation
+    EN Image Nodes
+    EN Make Specular Color
+    EN Specular
+    EN Subsurface Scattering
+    EN Texturizer
 
 NODES > GEOMETRY NODES (1)
 
-Translate Bounding Box
+<!-- GN Translate Bounding Box -->
 
 NODES > LIGHTS (8)
 
-LC Blackbody - Artificial Light
-LC Blackbody - Incadescent/Fluorescent Light
-LC Blackbody - Natural Light
-LC RGB - Natural Light
-Lumens Converter
-Lumens Converter Area
-Lumens Converter IES
-Lumens Converter Spot
+    LC Blackbody - Artificial Light
+    LC Blackbody - Incadescent/Fluorescent Light
+    LC Blackbody - Natural Light
+    LC RGB - Natural Light
+    Lumens Converter
+    Lumens Converter Area
+    Lumens Converter IES
+    Lumens Converter Spot
+
+NODES > MASKS (11)
+
+    M Better Edge Mask
+    M Diamond Plate Emboss
+    M Edge Detect
+    M Edge Mask
+    M Eight Columns
+    M Grunge Edge Drip
+    M Split X
+    M Stencil Mask
+    M Street Level Grunge
+    M UV Bricks
+    M UV Grid
+
+NODES > RUST CORROSION (7)
+
+    RC Corrosion v1
+    RC Corrosion v2
+    RC Corrosion v3
+    RC Corrosion v4
+    RC Musgrave Mix
+    RC Rust Pattern
+    RC Rusty Metal
+
+NODES > SWITCH MIX (5)
+
+    SN Switch Color
+    SN Switch Color (Legacy)
+    SN Switch Float
+    SN Switch Vector
+    SN Value Mix
+
+NODES > TILING (3)
+
+    TN Entagma Better Tiling
+    TN Make Pattern
+    TN Tile Breaker
+
+NODES > CALCULATORS (4)
+
+    % Blur Group (White Noise)
+    % Blur Node (Noise)
+    % Degrees to Radians
+    % Fader
+    % Phi
+    % Random Value
+    % Random Value Stepped
 
 NODES > WORLDS (1 Node Group, 15 Worlds)
 
-W Vignette Background
-World - Chrome
-World - Generic Daylight
-World - Neutral HDRI
-World - Real Daylight
-World - Real Moonlight
-World - Sky Moon
-World - Sky Noon
-World - Sky Sci-Fi
-World - Sky Sunset
-World - Starfield
-World - Vignette Blue Gradient
-World - Vignette Creme
-World - Vignette Grey
-World - Vignette Grunge
-World - Vol Hazy Underwater
+    W Vignette Background
+    World - Chrome
+    World - Generic Daylight
+    World - Neutral HDRI
+    World - Real Daylight
+    World - Real Moonlight
+    World - Sky Moon
+    World - Sky Noon
+    World - Sky Sci-Fi
+    World - Sky Sunset
+    World - Starfield
+    World - Vignette Blue Gradient
+    World - Vignette Creme
+    World - Vignette Grey
+    World - Vignette Grunge
+    World - Vol Hazy Underwater
 ```
 ![Nodes Thumbnails](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/nodes-effects.jpg)
 
 ```
 TUTORIALS > EFFECTS (12)
 
-Backfacing
-Backfacing Emission
-FX AO Floor
-FX AO Object
-FX AO Rust
-FX Corrosion v0
-FX Corrosion v1
-FX Corrosion v2
-FX Corrosion v3
-FX Corrosion v3a
-FX Corrosion v4
-FX Corrosion v5
+    Backfacing
+    Backfacing Emission
+    FX AO Floor
+    FX AO Object
+    FX AO Rust
+    FX Corrosion v0
+    FX Corrosion v1
+    FX Corrosion v2
+    FX Corrosion v3
+    FX Corrosion v3a
+    FX Corrosion v4
+    FX Corrosion v5
 
 TUTORIALS > LIQUID (1)
 
-Water
+    Water
 ```
