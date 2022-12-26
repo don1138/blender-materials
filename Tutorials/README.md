@@ -2,6 +2,10 @@
 
 Collected Blender materials, nodes, and worlds I've made from tips and tutorials.
 
+> !! - The new **Color Mix** node introduced in **Blender 3.4** seems to have doinked some of these materials, particularly those using my custom **Energy Conseervation** group. I've corrected some but not all, so you may need to re-connect the color inputs and outputs.
+
+***
+
 - [Tutorials-2021.blend](#tuts21) - 85 Materials
 - [Tutorials-2022.blend](#tuts22) - 70 Materials
 - [Tutorials-2022-Q3.blend](#tuts222) - 63 Materials, 3 Node Groups, 3 Lights, 1 World
@@ -322,7 +326,7 @@ MATERIALS (63)
     Metal - SS Rusted Metal
 
     Organic - Cherry Leaf
-    Organic - Earth
+    Organic - Earth (get textures from https://www.shadedrelief.com/natural3/)
     Organic - Oscurart Skin
     Organic - RK Atmosphere
     Organic - Trunk
