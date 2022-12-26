@@ -525,20 +525,22 @@ NODES > WORLDS (1 Node Group, 15 Worlds)
 ```
 TUTORIALS > EFFECTS (12)
 
-    Backfacing
-    Backfacing Emission
-    FX AO Floor
-    FX AO Object
-    FX AO Rust
-    FX Corrosion v0
-    FX Corrosion v1
-    FX Corrosion v2
-    FX Corrosion v3
-    FX Corrosion v3a
-    FX Corrosion v4
-    FX Corrosion v5
+     - Backfacing
+     - Backfacing Emission
+
+FX1  - FX AO Floor
+FX2  - FX AO Object
+FX3  - FX AO Rust
+FX4  - FX Corrosion v0
+FX5  - FX Corrosion v1
+FX6  - FX Corrosion v2
+
+FX7  - FX Corrosion v3
+FX8  - FX Corrosion v3a
+FX9  - FX Corrosion v4
+FX10 - FX Corrosion v5
 
 TUTORIALS > LIQUID (1)
 
-    Water
+FX12 - Water
 ```
