@@ -328,7 +328,7 @@ M6  - Manufactured - Plastic PC Polycarbonate Clear
 
 M7  - Manufactured - Plastic PET (Polyester)
 M8  - Manufactured - Plastic PET (Polyester) Clear
-M9 - Manufactured - Plastic PMMA (Acrylic)
+M9  - Manufactured - Plastic PMMA (Acrylic)
 M11 - Manufactured - Plastic PMMA (Acrylic) Clear
 M12 - Manufactured - Plastic PP Polypyrene
 
