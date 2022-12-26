@@ -288,7 +288,7 @@ J11 - Effects - Voronoi Material
 J12 - Effects - Wonderdog Emissive
 
 ```
-![Tutorials Thumbnails 2022 K](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-jk.jpg)
+![Tutorials Thumbnails 2022 K](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-k.jpg)
 
 ```
 K1 - Fabric - artist.b Cloth
