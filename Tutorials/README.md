@@ -357,7 +357,7 @@ N9 - Metal - SS Rusted Metal
 
 ```
 O1 - Organic - Cherry Leaf
-O2 - Organic - Earth (get textures from https://www.shadedrelief.com/natural3/)
+O2 - Organic - Earth (get textures from www.shadedrelief.com/natural3/)
 O3 - Organic - Oscurart Skin
 O4 - Organic - RK Atmosphere
 O5 - Organic - Trunk
