@@ -263,8 +263,16 @@ TUTORIALS 2022 Q3
 
 MATERIALS (63)
 
+```
+![Tutorials Thumbnails 2022 i](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-i.jpg)
+
+```
     Architectural - Brick
 
+```
+![Tutorials Thumbnails 2022 J](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-j.jpg)
+
+```
     Effects - CF Edge Wear
     Effects - Dust (iMeshh)
     Effects - Iced Tips
