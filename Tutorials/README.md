@@ -8,7 +8,7 @@ Collected Blender materials, nodes, and worlds I've made from tips and tutorials
 
 - [Tutorials-2021.blend](#tuts21) - 85 Materials
 - [Tutorials-2022.blend](#tuts22) - 70 Materials
-- [Tutorials-2022-Q3.blend](#tuts222) - 63 Materials, 3 Node Groups, 3 Lights, 1 World
+- [Tutorials-2022-Q3.blend](#tuts222) - 74 Materials, 4 Node Groups, 3 Lights, 4 Worlds
 - [Nodes.blend](#nodes) -  1 Collection, 13 Materials, 71 Node Groups, 16 Worlds
 
 ***
@@ -253,8 +253,9 @@ H2 - Stone - RK Smooth Concrete
 
 
 
-# <a id="tuts222"></a>Tutorials 2022 Q3 (63 Materials, 3 Node Groups, 3 Lights, 1 World)
+# <a id="tuts222"></a>Tutorials 2022 Q3 (74 Materials, 4 Node Groups, 3 Lights, 4 Worlds)
 * **Tutorials-2022-Q3.blend** includes Asset Browser swatches (Blender 3.0+)
+* [**Sources-2022-Q3.md**](https://github.com/don1138/blender-materials/blob/main/Tutorials/SOURCES-2022-Q3.md) is a list of links to the tutorials
 
 ```
 TUTORIALS 2022 Q3
@@ -268,6 +269,7 @@ MATERIALS (63)
 
 ```
 I1 - Architectural - Brick
+   - Architectural - RK Brick
 
 ```
 ![Tutorials Thumbnails 2022 J](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-j.jpg)
@@ -284,6 +286,7 @@ J7  - Effects - Samuel Sullins Concrete
 J8  - Effects - Samuel Sullins Grid
 J9  - Effects - Samuel Sullins Swirl
 J10 - Effects - SS Abstract Landscape
+    - Effects - SS Rust
 J11 - Effects - Voronoi Material
 J12 - Effects - Wonderdog Emissive
 
@@ -303,6 +306,11 @@ K6 - Fabric - RK Fabric
 
 ```
 L1 - Glass - Best Realistic Glass
+     Glass - Glass (Chocofur 2022)
+     Glass - Glass (DVR Pro)
+     Glass - Glass (RSEhlers)
+     Glass - Glass (Sean Turner)
+     Glass - Glass (Sean Turner)
 L2 - Graphic - 3D GRID
 L3 - Graphic - CM Endless Tunnel Alt
 L4 - Graphic - CM Endless Tunnel Image
@@ -318,6 +326,8 @@ L8 - Graphic - Procedural Abstract M1
 ![Tutorials Thumbnails 2022 M](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-m.jpg)
 
 ```
+    - Liquid - Fluid
+    - Liquid - Nice Water
 M1  - Liquid - Ocean
 M2  - Liquid - Realistic Water
 M3  - Manufactured - artist.B Clear Plastic
@@ -335,6 +345,7 @@ M12 - Manufactured - Plastic PP Polypyrene
 M13 - Manufactured - Plastic PP Polypyrene Clear
 M14 - Manufactured - Plastic PVC (Vinyl)
 M15 - Manufactured - Plastic PVC (Vinyl) Clear
+    - Manufactured - Plastic Wrap
 M16 - Manufactured - Styrofoam
 
 ```
@@ -359,16 +370,18 @@ N9 - Metal - SS Rusted Metal
 O1 - Organic - Cherry Leaf
 O2 - Organic - Earth (get textures from www.shadedrelief.com/natural3/)
 O3 - Organic - Oscurart Skin
+   - Organic - Procedural Wood
 O4 - Organic - RK Atmosphere
 O5 - Organic - Trunk
 O6 - Organic - Wood
 
 O7 - Organic - Wood Core
-O8 - Stone - Sand
+O8 - Stone - GENVFX Sand
 O9 - Stone - Torquedaras Ceramic
 
 NODE GROUPS (3)
 
+    EN RSEhlers Fresnel
     Parallax Plane
     Random Value
     Random Value Stepped
@@ -379,9 +392,12 @@ OBJECTS (3)
     IES Area Light Rotate
     IES Mesh Light
 
-WORLDS (1)
+WORLDS (4)
 
-    Worlds - Infinite Floor (World)
+    World - Desaturated & Boosted Diffuse
+    World - Infinite Floor
+    World - Split Sunlight
+    World - Split Sunlight Boost Evironment
 ```
 
 ***

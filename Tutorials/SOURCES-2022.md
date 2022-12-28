@@ -17,6 +17,7 @@ I learned a lot from following them. If you're new to procedural materials, you 
 
 * Anti-Seam
 * Anti-Seam Node
+* [CGP Frost](https://www.youtube.com/watch?v=Lc3-_6G6R0I)
 * [DC Rust](https://www.youtube.com/watch?v=WrrTsCQ6AD4)
 * Diverse Detail
 * [Fascinating Emission](https://www.youtube.com/watch?v=jUt853tS5o0)
@@ -76,6 +77,11 @@ I learned a lot from following them. If you're new to procedural materials, you 
 * Base Clay
 * [Cardboard (Derek Elliott)](https://www.youtube.com/watch?v=O1em_ijMvUk)
 * [Cardboard (Sanctus)](https://www.youtube.com/watch?v=9C6zl0kdVzw)
+* [CGP Wood A](https://www.youtube.com/watch?v=nLM-odurtFI)
+* [CGP Wood B](https://www.youtube.com/watch?v=nLM-odurtFI)
+* [CGP Wood C](https://www.youtube.com/watch?v=nLM-odurtFI)
+* [CGP Wood D](https://www.youtube.com/watch?v=nLM-odurtFI)
+* [CGP Wood E](https://www.youtube.com/watch?v=nLM-odurtFI)
 * [Cookie](https://www.youtube.com/watch?v=VNluiXnmi-8)
 * [Laminate](https://www.artstation.com/artwork/PeVNV8)
 * [Natural Clay](https://www.youtube.com/watch?v=3KOF7ZnkWsQ)
