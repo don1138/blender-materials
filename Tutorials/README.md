@@ -341,8 +341,8 @@ M8  - Manufactured - Plastic PET (Polyester) Clear
 M9  - Manufactured - Plastic PMMA (Acrylic)
 M11 - Manufactured - Plastic PMMA (Acrylic) Clear
 M12 - Manufactured - Plastic PP Polypyrene
-
 M13 - Manufactured - Plastic PP Polypyrene Clear
+
 M14 - Manufactured - Plastic PVC (Vinyl)
 M15 - Manufactured - Plastic PVC (Vinyl) Clear
     - Manufactured - Plastic Wrap
