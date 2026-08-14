@@ -1,4 +1,4 @@
-# Glass Shaders (52 Materials)
+# Glass Shaders (54 Materials)
 
 Harvested from tutorials and sample files, attributed in the Material names.
 
@@ -69,7 +69,6 @@ Harvested from tutorials and sample files, attributed in the Material names.
 - GM Glassmorphism Noise BSDF
 - GM Glassmorphism Noise Refraction
 - GM Glassmorphism Refraction
--
 
 ![Glass Shaders Glassmorphism Thumbnails](https://github.com/don1138/blender-materials/blob/main/Glass-Shaders/imx/Glass-Shaders-Glassmorphism.jpg)
 
