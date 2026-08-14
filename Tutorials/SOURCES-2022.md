@@ -4,7 +4,7 @@ Here's a list of the source tutorials for these mats, at least the ones I've bee
 
 I learned a lot from following them. If you're new to procedural materials, you should do the same.
 
-## Tutorials 2022 (70 Materials)
+## Tutorials 2022 (83 Materials, 1 Geometry Node, 1 World)
 
 ### Architectural (4)
 

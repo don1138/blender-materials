@@ -1,6 +1,6 @@
 # Sources 2022 Q3
 
-## MATERIALS
+## MATERIALS (75 Materials, 4 Shader Nodes, 3 Geometry Nodes, 4 World)
 
 ### Architectural
 
@@ -97,7 +97,7 @@
 ### Organic
 
 * Cherry Leaf
-* Earth (get textures from www.shadedrelief.com/natural3/)
+* Earth (get textures from <www.shadedrelief.com/natural3/>)
 * Oscurart Skin
 * [Procedural Wood](https://www.youtube.com/watch?v=NPiK25I07TE)
 * [RK Atmosphere](https://www.youtube.com/watch?v=jvZ3kYhHyQI)
@@ -123,7 +123,7 @@
 * [IES Area Light Rotate](https://blenderartists.org/t/how-to-make-an-ies-area-light-in-blender/1405301)
 * [IES Mesh Light](https://blenderartists.org/t/how-to-make-an-ies-area-light-in-blender/1405301)
 
-# WORLDS
+## WORLDS
 
 * [World - Desaturated & Boosted Diffuse](https://www.youtube.com/watch?v=Y8QGgOvwa94)
 * [World - Infinite Floor](https://twitter.com/cmzw_/status/1567503918133051400)
