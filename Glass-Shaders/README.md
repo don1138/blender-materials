@@ -32,20 +32,6 @@ Harvested from tutorials and sample files, attributed in the Material names.
 
 ## Glass Shaders Architectural Thumbnails
 
-- GS Architectural Glass (Paint 4D)
-- GS Architectural Glass (Vilem Duha)
-- GS Automotive Glass (BMW Demo Headlight)
-- GS Automotive Glass (BMW Demo)
-- GS Automotive Glass (Chocofur A)
-- GS Automotive Glass (Chocofur B)
-- GS Automotive Glass (Chocofur C)
-- GS Automotive Glass (Chocofur D)
-- GS Automotive Glass Head Light
-
-![Glass Shaders Architectural Thumbnails](https://github.com/don1138/blender-materials/blob/main/Glass-Shaders/imx/Glass-Shaders-Architectural.jpg)
-
-## Glass Shaders Automotive Thumbnails
-
 - GS Architectural Glass (Architecture Topics V1)
 - GS Architectural Glass (Architecture Topics V2)
 - GS Architectural Glass (Barcelona Pavillion Demo)
@@ -55,6 +41,20 @@ Harvested from tutorials and sample files, attributed in the Material names.
 - GS Architectural Glass (Lone Monk Demo)
 - GS Architectural Glass (Luminous Labs)
 - GS Architectural Glass (Marco Hayek)
+- GS Architectural Glass (Paint 4D)
+- GS Architectural Glass (Vilem Duha)
+
+![Glass Shaders Architectural Thumbnails](https://github.com/don1138/blender-materials/blob/main/Glass-Shaders/imx/Glass-Shaders-Architectural.jpg)
+
+## Glass Shaders Automotive Thumbnails
+
+- GS Automotive Glass (BMW Demo Headlight)
+- GS Automotive Glass (BMW Demo)
+- GS Automotive Glass (Chocofur A)
+- GS Automotive Glass (Chocofur B)
+- GS Automotive Glass (Chocofur C)
+- GS Automotive Glass (Chocofur D)
+- GS Automotive Glass Head Light
 
 ![Glass Shaders Automotive Thumbnails](https://github.com/don1138/blender-materials/blob/main/Glass-Shaders/imx/Glass-Shaders-Automotive.jpg)
 
