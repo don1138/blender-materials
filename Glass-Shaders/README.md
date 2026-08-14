@@ -4,7 +4,7 @@ Harvested from tutorials and sample files, attributed in the Material names.
 
 **Glass-Shaders.blend** and **Glassmorphism.blend** include Asset Browser swatches (Blender 3.0+)
 
-## Glass Shaders Thumbnails
+## Glass Shaders
 
 - GS Glass (3D Wolf Glassware)
 - GS Glass (3D Wolf)
@@ -30,7 +30,7 @@ Harvested from tutorials and sample files, attributed in the Material names.
 
 ![Glass Shaders Thumbnails](https://github.com/don1138/blender-materials/blob/main/Glass-Shaders/imx/Glass-Shaders.jpg)
 
-## Glass Shaders Architectural Thumbnails
+## Glass Shaders Architectural
 
 - GS Architectural Glass (Architecture Topics V1)
 - GS Architectural Glass (Architecture Topics V2)
@@ -46,7 +46,7 @@ Harvested from tutorials and sample files, attributed in the Material names.
 
 ![Glass Shaders Architectural Thumbnails](https://github.com/don1138/blender-materials/blob/main/Glass-Shaders/imx/Glass-Shaders-Architectural.jpg)
 
-## Glass Shaders Automotive Thumbnails
+## Glass Shaders Automotive
 
 - GS Automotive Glass (BMW Demo Headlight)
 - GS Automotive Glass (BMW Demo)
@@ -58,7 +58,7 @@ Harvested from tutorials and sample files, attributed in the Material names.
 
 ![Glass Shaders Automotive Thumbnails](https://github.com/don1138/blender-materials/blob/main/Glass-Shaders/imx/Glass-Shaders-Automotive.jpg)
 
-## Glass Shaders Glassmorphism Thumbnails
+## Glass Shaders Glassmorphism
 
 - GM Glassmorphism (Advanced Glass Shader)
 - GM Glassmorphism BDSF
@@ -72,7 +72,7 @@ Harvested from tutorials and sample files, attributed in the Material names.
 
 ![Glass Shaders Glassmorphism Thumbnails](https://github.com/don1138/blender-materials/blob/main/Glass-Shaders/imx/Glass-Shaders-Glassmorphism.jpg)
 
-## Glass Shaders Other Thumbnails
+## Glass Shaders Other
 
 - GS Diamond (Vilem Duha)
 - GS Ice (Chocofur)
