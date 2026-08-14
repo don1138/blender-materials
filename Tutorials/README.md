@@ -6,16 +6,20 @@ Collected Blender materials, nodes, and worlds I've made from tips and tutorials
 
 ***
 
-- [Tutorials-2021.blend](#tuts21) - 85 Materials
-- [Tutorials-2022.blend](#tuts22) - 70 Materials
-- [Tutorials-2022-Q3.blend](#tuts222) - 74 Materials, 4 Node Groups, 3 Lights, 4 Worlds
-- [Nodes.blend](#nodes) -  1 Collection, 13 Materials, 71 Node Groups, 16 Worlds
+| File                                | Collections | Materials | Shader Node Groups | Geometry Node Groups | Objects | Worlds |
+| ----------------------------------- | ----------: | --------: | -----------------: | -------------------: | ------: | -----: |
+| [Nodes.blend](#nodes)               | 1           | 13        | 71                 |                      |         | 16     |
+| [Tutorials-2021.blend](#tuts21)     |             | 85        |                    |                      |         |        |
+| [Tutorials-2022.blend](#tuts22)     |             | 83        |                    | 1                    |         | 1      |
+| [Tutorials-2022-Q3.blend](#tuts222) |             | 75        | 4                  | 3                    |         | 4      |
+| Tutorials 2023                      |             | 36        | 10                 | 7                    |         | 1      |
+| Tutorials 2024                      |             | 42        | 5                  | 5                    | 3       |        |
+| Tutorials 2025                      |             | 10        | 3                  | 2                    |         | 1      |
 
 ***
 
-
-
 # <a id="tuts21"></a>Tutorials 2021 (85 Materials)
+
 * **Tutorials-2021.blend** includes Asset Browser swatches (Blender 3.0+)
 * [**Sources-2021.md**](https://github.com/don1138/blender-materials/blob/main/Tutorials/SOURCES-2021.md) is a list of links to the tutorials
 
@@ -131,8 +135,6 @@ N1 - Stone - Ultimate Concrete 0.2
 
 ***
 
-
-
 # <a id="tuts22"></a>Tutorials 2022 (70 Materials)
 
 * **Tutorials-2022.blend** includes Asset Browser swatches (Blender 3.0+)
@@ -146,6 +148,7 @@ A2 - Architectural - Procedural Bricks
 A3 - Architectural - Procedural Painted Wall
 A4 - Architectural - RK Asphalt
 ```
+
 ![Tutorials Thumbnails 2022 B](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-b.jpg)
 
 ```
@@ -169,6 +172,7 @@ B15 - Effects - Studio Floor
 B16 - Effects - Water Puddles
 B17 - Effects - Wet Surface
 ```
+
 ![Tutorials Thumbnails 2022 C](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-c.jpg)
 
 ```
@@ -178,6 +182,7 @@ C3 - Glass - SB Window Smudges
 C4 - Glass - Transparent Polypropylene
 C5 - Glass - Transparent Polypropylene Alt
 ```
+
 ![Tutorials Thumbnails 2022 D](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-d.jpg)
 
 ```
@@ -186,12 +191,14 @@ D2 - Graphic - Stripes
 D3 - Graphic - Toon Shader
 D4 - Graphic - Truchet
 ```
+
 ![Tutorials Thumbnails 2022 E](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-e.jpg)
 
 ```
 E1 - Liquid - FP Water
 E2 - Liquid - Wine
 ```
+
 ![Tutorials Thumbnails 2022 F](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-f.jpg)
 
 ```
@@ -213,6 +220,7 @@ F13 - Metal - RK Brushed Metal
 F14 - Metal - RK Dented Metal
 F15 - Metal - RK Dirty Metal
 ```
+
 ![Tutorials Thumbnails 2022 G](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-g.jpg)
 
 ```
@@ -238,6 +246,7 @@ G15 - Organic - Snow
 G16 - Organic - Sponge Foam
 G17 - Organic - Wood Plank
 ```
+
 ![Tutorials Thumbnails 2022 H](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-h.jpg)
 
 ```
@@ -251,9 +260,8 @@ H2 - Stone - RK Smooth Concrete
 
 ***
 
-
-
 # <a id="tuts222"></a>Tutorials 2022 Q3 (74 Materials, 4 Node Groups, 3 Lights, 4 Worlds)
+
 * **Tutorials-2022-Q3.blend** includes Asset Browser swatches (Blender 3.0+)
 * [**Sources-2022-Q3.md**](https://github.com/don1138/blender-materials/blob/main/Tutorials/SOURCES-2022-Q3.md) is a list of links to the tutorials
 
@@ -265,6 +273,7 @@ TUTORIALS 2022 Q3
 MATERIALS (63)
 
 ```
+
 ![Tutorials Thumbnails 2022 i](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-i.jpg)
 
 ```
@@ -272,6 +281,7 @@ I1 - Architectural - Brick
    - Architectural - RK Brick
 
 ```
+
 ![Tutorials Thumbnails 2022 J](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-j.jpg)
 
 ```
@@ -291,6 +301,7 @@ J11 - Effects - Voronoi Material
 J12 - Effects - Wonderdog Emissive
 
 ```
+
 ![Tutorials Thumbnails 2022 K](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-k.jpg)
 
 ```
@@ -302,6 +313,7 @@ K5 - Fabric - artist.b Silk
 K6 - Fabric - RK Fabric
 
 ```
+
 ![Tutorials Thumbnails 2022 L](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-l.jpg)
 
 ```
@@ -323,6 +335,7 @@ L8 - Graphic - Procedural Abstract M1
    - Lights - IES Mesh Light
 
 ```
+
 ![Tutorials Thumbnails 2022 M](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-m.jpg)
 
 ```
@@ -349,6 +362,7 @@ M15 - Manufactured - Plastic PVC (Vinyl) Clear
 M16 - Manufactured - Styrofoam
 
 ```
+
 ![Tutorials Thumbnails 2022 N](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-n.jpg)
 
 ```
@@ -364,6 +378,7 @@ N8 - Metal - SS Hammered Metal
 N9 - Metal - SS Rusted Metal
 
 ```
+
 ![Tutorials Thumbnails 2022 O](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/tut-2022-o.jpg)
 
 ```
@@ -402,9 +417,8 @@ WORLDS (4)
 
 ***
 
-
-
 # <a id="nodes"></a>Nodes (1 Collection, 13 Materials, 71 Node Groups, 16 Worlds)
+
 * **Nodes.blend** includes Asset Browser swatches (Blender 3.0+)
 
 ```
@@ -536,6 +550,7 @@ NODES > WORLDS (1 Node Group, 15 Worlds)
     World - Vignette Grunge
     World - Vol Hazy Underwater
 ```
+
 ![Nodes Thumbnails](https://github.com/don1138/blender-materials/blob/main/Tutorials/imx/nodes-effects.jpg)
 
 ```
