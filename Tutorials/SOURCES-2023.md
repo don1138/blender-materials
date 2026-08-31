@@ -75,8 +75,6 @@ Source tutorials for these mats
 - [Cracked Ceramic](https://www.youtube.com/watch?v=h9jrsulxjg0)
 - Moon Surface
 
-### Volume
-
 ## SHADER NODE GROUPS (10)
 
 - [Color Ramp - 3 Pos](https://www.youtube.com/watch?v=WaDkMP5ruh4)
@@ -99,8 +97,6 @@ Source tutorials for these mats
 - [Making a Procedural Fence](https://www.youtube.com/watch?v=CN2p3tNN0eU)
 - [Merge Intersecting Meshes](https://www.youtube.com/watch?v=CN2p3tNN0eU)
 - [Procedural Growing Roots](https://www.youtube.com/watch?v=CN2p3tNN0eU)
-
-## OBJECTS
 
 ## WORLDS (1)
 
