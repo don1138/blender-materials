@@ -6,8 +6,6 @@ Source tutorials for these mats
 
 ## MATERIALS (42 Materials)
 
-### Architectural
-
 ### Effects (12)
 
 - Edge Wear 2409
@@ -22,8 +20,6 @@ Source tutorials for these mats
 - [Thin Film Interference Metal](https://www.youtube.com/watch?v=fbVq13f47-8)
 - [Thin Film Interference Opalescence](https://www.youtube.com/watch?v=fbVq13f47-8)
 - [Thin Film Interference Soap Bubble](https://www.youtube.com/watch?v=fbVq13f47-8)
-
-### Fabric
 
 ### Glass (6)
 
@@ -79,8 +75,6 @@ Source tutorials for these mats
 - [KP Stylized Rock](https://www.youtube.com/watch?v=CsskhkwtvAs)
 - [RK Wavy Marble](https://www.youtube.com/watch?v=x85I0BTNvAY)
 
-### Volume
-
 ## SHADER NODE GROUPS (5 Nodes)
 
 - Principled - Thin Film (Anodized Chrome)
@@ -103,10 +97,6 @@ Source tutorials for these mats
 - Rock Cliff
 - Spiral Staircase
 
-## WORLDS (XX Worlds)
+## BONUS
 
----
-
-GS Glass Render Optimized (CG Meerkat)
-How to Illuminate Black Areas in Glass Materials - Blender Cycles Quick Tip
-<https://www.youtube.com/watch?v=fRa7fJ-clrg>
+- [GS Glass Render Optimized (CG Meerkat): How to Illuminate Black Areas in Glass Materials - Blender Cycles Quick Tip](https://www.youtube.com/watch?v=fRa7fJ-clrg)
