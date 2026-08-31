@@ -6,58 +6,42 @@ Source tutorials for these mats
 
 ## MATERIALS
 
-### Architectural
-
-### Effects
+### Effects (3)
 
 - [Amazing X-Ray Effect](https://www.youtube.com/watch?v=LsN8ncvHdUg)
 - [Edge Wear Palooza](https://www.youtube.com/watch?v=APoXtwF-ixc&t=19s)
 - [Holographic Pokemon Card Effect](https://www.youtube.com/watch?v=wJJouk_lGiY)
 
-### Fabric
-
-### Glass
+### Glass (1)
 
 - Apple Liquid Glass
 
-### Graphic
-
-### Lights
-
-### Liquid
-
-### Manufactured
+### Manufactured (3)
 
 - [Chameleon Car Paint](https://www.youtube.com/watch?v=Aj4Tlqjx8dU&t=91s)
 - [Cheap Plastic Opaque](https://www.youtube.com/watch?v=FaDlWVNl_qw)
 - [Cheap Plastic Trans](https://www.youtube.com/watch?v=FaDlWVNl_qw)
 
-### Metal
+### Metal (2)
 
 - [Procedural Gold - CGPlus](https://www.youtube.com/watch?v=_EfsugN09nM)
 - [Procedural Gold - Midgley](https://www.youtube.com/watch?v=0F9E8-WI_AA)
 
-### Organic
+### Organic (1)
 
 - [Procedural Terrain](https://www.youtube.com/watch?v=j15byGywr8M)
 
-### Stone
-
-### Volume
-
-## SHADER NODE GROUPS
+## SHADER NODE GROUPS (3)
 
 - [Bottom Dirt Mask](https://www.youtube.com/watch?v=d2Ncgpuc_Tc)
 - [Bottom Dirt Mask Original](https://www.youtube.com/watch?v=d2Ncgpuc_Tc)
 - [Upward Facing Surfaces Mask](https://www.youtube.com/watch?v=d2Ncgpuc_Tc)
 
-## GEOMETRY NODE GROUPS
+## GEOMETRY NODE GROUPS (2)
 
 - [Billboard Follow Camera](https://www.reddit.com/r/blenderTutorials/comments/1mox92h/simple_billboard_setup_with_geometry_nodes_in/)
 - [GN Procedural Terrain](https://www.youtube.com/watch?v=d4k9-KF6GkI)
 
-## OBJECTS
-
-## WORLDS
+## WORLDS (1)
 
 - [Procedural Space HDRI](https://www.youtube.com/watch?v=_q-nMPRSOMk)
